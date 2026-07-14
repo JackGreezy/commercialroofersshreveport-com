@@ -1,0 +1,51 @@
+{
+  "domain": "commercialroofersshreveport.com",
+  "mainLocation": {
+    "city": "Shreveport",
+    "state": "LA",
+    "images": [
+      "/images/locations/commercial-roofers-shreveport-la-01.webp",
+      "/images/locations/commercial-roofers-shreveport-la-02.webp",
+      "/images/locations/commercial-roofers-shreveport-la-03.webp",
+      "/images/locations/commercial-roofers-shreveport-la-04.webp",
+      "/images/locations/commercial-roofers-shreveport-la-05.webp",
+      "/images/locations/commercial-roofers-shreveport-la-06.webp",
+      "/images/locations/commercial-roofers-shreveport-la-07.webp",
+      "/images/locations/commercial-roofers-shreveport-la-08.webp"
+    ]
+  },
+  "locations": {
+    "bossier-city": "/images/locations/commercial-roofers-bossier-city-la.webp",
+    "downtown-shreveport": "/images/locations/commercial-roofers-downtown-shreveport-la.webp",
+    "barksdale-afb-area": "/images/locations/commercial-roofers-barksdale-afb-area-la.webp",
+    "youree-drive-corridor": "/images/locations/commercial-roofers-youree-drive-corridor-la.webp",
+    "minden": "/images/locations/commercial-roofers-minden-la.webp",
+    "mansfield": "/images/locations/commercial-roofers-mansfield-la.webp",
+    "benton": "/images/locations/commercial-roofers-benton-la.webp",
+    "haughton": "/images/locations/commercial-roofers-haughton-la.webp",
+    "blanchard": "/images/locations/commercial-roofers-blanchard-la.webp",
+    "greenwood": "/images/locations/commercial-roofers-greenwood-la.webp",
+    "stonewall": "/images/locations/commercial-roofers-stonewall-la.webp",
+    "keithville": "/images/locations/commercial-roofers-keithville-la.webp",
+    "vivian": "/images/locations/commercial-roofers-vivian-la.webp",
+    "oil-city": "/images/locations/commercial-roofers-oil-city-la.webp",
+    "mooringsport": "/images/locations/commercial-roofers-mooringsport-la.webp",
+    "plain-dealing": "/images/locations/commercial-roofers-plain-dealing-la.webp",
+    "doyline": "/images/locations/commercial-roofers-doyline-la.webp",
+    "sibley": "/images/locations/commercial-roofers-sibley-la.webp",
+    "dixie-inn": "/images/locations/commercial-roofers-dixie-inn-la.webp",
+    "red-chute": "/images/locations/commercial-roofers-red-chute-la.webp",
+    "elm-grove": "/images/locations/commercial-roofers-elm-grove-la.webp",
+    "princeton": "/images/locations/commercial-roofers-princeton-la.webp",
+    "fillmore": "/images/locations/commercial-roofers-fillmore-la.webp",
+    "belcher": "/images/locations/commercial-roofers-belcher-la.webp",
+    "gilliam": "/images/locations/commercial-roofers-gilliam-la.webp",
+    "hosston": "/images/locations/commercial-roofers-hosston-la.webp",
+    "ida": "/images/locations/commercial-roofers-ida-la.webp",
+    "ringgold": "/images/locations/commercial-roofers-ringgold-la.webp",
+    "coushatta": "/images/locations/commercial-roofers-coushatta-la.webp",
+    "grand-cane": "/images/locations/commercial-roofers-grand-cane-la.webp",
+    "frierson": "/images/locations/commercial-roofers-frierson-la.webp",
+    "waskom": "/images/locations/commercial-roofers-waskom-tx.webp"
+  }
+}

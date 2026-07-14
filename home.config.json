@@ -1,0 +1,16 @@
+{
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialroofersshreveport-com",
+  "businessName": "Commercial Roofers of Shreveport",
+  "city": "Shreveport",
+  "region": "Shreveport, Bossier City, Caddo Parish, Bossier Parish, and surrounding Ark-La-Tex communities",
+  "phone": "555-555-6135",
+  "email": "hello@commercialroofersshreveport.com",
+  "address": "401 Edwards St, Suite 700, Shreveport, LA 71101",
+  "domain": "commercialroofersshreveport.com",
+  "wordmark_l1": "Commercial Roofers",
+  "wordmark_l2": "of Shreveport",
+  "hero_image": "/ours/locations/commercial-roofers-shreveport-la-01.webp",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
+  "nav": [["Services", "/services"], ["Roof Systems", "/roof-systems"], ["Industries", "/industries"], ["Project Types", "/project-types"], ["Service Areas", "/locations"], ["Manufacturers", "/manufacturers"], ["Contact", "/contact"]],
+  "cta": ["Request a Roof Assessment", "/contact"]
+}
