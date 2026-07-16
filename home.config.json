@@ -11,6 +11,40 @@
   "wordmark_l2": "of Shreveport",
   "hero_image": "/ours/locations/commercial-roofers-shreveport-la-01.webp",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
-  "nav": [["Services", "/services"], ["Roof Systems", "/roof-systems"], ["Industries", "/industries"], ["Project Types", "/project-types"], ["Service Areas", "/locations"], ["Manufacturers", "/manufacturers"], ["Contact", "/contact"]],
-  "cta": ["Request a Roof Assessment", "/contact"]
+  "nav": [
+    [
+      "Services",
+      "/services"
+    ],
+    [
+      "Roof Systems",
+      "/roof-systems"
+    ],
+    [
+      "Industries",
+      "/industries"
+    ],
+    [
+      "Project Types",
+      "/project-types"
+    ],
+    [
+      "Service Areas",
+      "/locations"
+    ],
+    [
+      "Manufacturers",
+      "/manufacturers"
+    ],
+    [
+      "Contact",
+      "/contact"
+    ]
+  ],
+  "cta": [
+    "Request a Roof Assessment",
+    "/contact"
+  ],
+  "privacyEffectiveDate": "February 2, 2026",
+  "termsEffectiveDate": "May 12, 2026"
 }
