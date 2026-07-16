@@ -1,101 +1,50 @@
 # Commercial Roofers of Shreveport
+Website: https://commercialroofersshreveport.com/
+Primary market: Shreveport 
+Focus: commercial roof repair, replacement, inspections, maintenance, coatings, roof systems, project planning, and service-area guidance.
 
-> Commercial Roofers of Shreveport provides commercial roof repair, replacement, maintenance, coatings, inspections, and roof-system planning across Shreveport, Bossier City, Caddo Parish, Bossier Parish, and surrounding Ark-La-Tex communities.
+## Core pages
+- Home: https://commercialroofersshreveport.com/
+- Services: https://commercialroofersshreveport.com/services
+- Roof systems: https://commercialroofersshreveport.com/roof-systems
+- Industries: https://commercialroofersshreveport.com/industries
+- Project types: https://commercialroofersshreveport.com/project-types
+- Service areas: https://commercialroofersshreveport.com/locations
+- Manufacturers: https://commercialroofersshreveport.com/manufacturers
+- Contact: https://commercialroofersshreveport.com/contact
+- Sitemap: https://commercialroofersshreveport.com/sitemap.xml
 
-## Service Areas
-- https://commercialroofersshreveport.com/locations/downtown-shreveport
-- https://commercialroofersshreveport.com/locations/bossier-city
-- https://commercialroofersshreveport.com/locations/youree-drive-corridor
-- https://commercialroofersshreveport.com/locations/barksdale-afb-area
-- https://commercialroofersshreveport.com/locations/haughton
-- https://commercialroofersshreveport.com/locations/benton
-- https://commercialroofersshreveport.com/locations/oil-city
-- https://commercialroofersshreveport.com/locations/greenwood
-- https://commercialroofersshreveport.com/locations/blanchard
-- https://commercialroofersshreveport.com/locations/minden
-- https://commercialroofersshreveport.com/locations/mooringsport
-- https://commercialroofersshreveport.com/locations/red-chute
-- https://commercialroofersshreveport.com/locations/ringgold
-- https://commercialroofersshreveport.com/locations/stonewall
-- https://commercialroofersshreveport.com/locations/vivian
-- https://commercialroofersshreveport.com/locations/belcher
-- https://commercialroofersshreveport.com/locations/coushatta
-- https://commercialroofersshreveport.com/locations/dixie-inn
-- https://commercialroofersshreveport.com/locations/doyline
-- https://commercialroofersshreveport.com/locations/elm-grove
-- https://commercialroofersshreveport.com/locations/fillmore
-- https://commercialroofersshreveport.com/locations/frierson
-- https://commercialroofersshreveport.com/locations/gilliam
-- https://commercialroofersshreveport.com/locations/grand-cane
-- https://commercialroofersshreveport.com/locations/hosston
-- https://commercialroofersshreveport.com/locations/ida
-- https://commercialroofersshreveport.com/locations/keithville
-- https://commercialroofersshreveport.com/locations/mansfield
-- https://commercialroofersshreveport.com/locations/plain-dealing
-- https://commercialroofersshreveport.com/locations/princeton
-- https://commercialroofersshreveport.com/locations/sibley
-- https://commercialroofersshreveport.com/locations/waskom
+## Priority commercial roofing topics
+- Commercial Roof Inspection in Shreveport, LA: https://commercialroofersshreveport.com/services/commercial-roof-inspection
+- Commercial Roof Leak Repair in Shreveport, LA: https://commercialroofersshreveport.com/services/commercial-roof-leak-repair
+- Commercial Roof Tear-Off & Replacement in Shreveport, LA: https://commercialroofersshreveport.com/services/commercial-roof-tear-off-replacement
+- Preventive Roof Maintenance Programs in Shreveport, LA: https://commercialroofersshreveport.com/services/preventive-maintenance-programs
+- Storm Damage Roof Repair in Shreveport, LA: https://commercialroofersshreveport.com/services/storm-damage-roof-repair
+- 80-Mil TPO Roofing in Shreveport, LA: https://commercialroofersshreveport.com/roof-systems/tpo-80-mil
+- 60-Mil TPO Roofing in Shreveport, LA: https://commercialroofersshreveport.com/roof-systems/tpo-60-mil
+- PVC Roof Systems in Shreveport, LA: https://commercialroofersshreveport.com/roof-systems/pvc-roof-systems
+- Black EPDM Roofing in Shreveport, LA: https://commercialroofersshreveport.com/roof-systems/epdm-black
+- SBS Modified Bitumen Roofing in Shreveport, LA: https://commercialroofersshreveport.com/roof-systems/modified-bitumen-sbs
+- Roofing for Manufacturing Operators in Shreveport, LA: https://commercialroofersshreveport.com/industries/manufacturing-operators
+- Roofing for Property Management Firms in Shreveport, LA: https://commercialroofersshreveport.com/industries/property-management-firms
+- Roofing for Government and Public-Sector Facilities in Shreveport, LA: https://commercialroofersshreveport.com/industries/government-public-sector
+- Roofing for Healthcare Systems in Shreveport, LA: https://commercialroofersshreveport.com/industries/healthcare-systems
+- Roofing for Hospitality Groups in Shreveport, LA: https://commercialroofersshreveport.com/industries/hospitality-groups
+- Distribution Center Roofing in Shreveport, LA: https://commercialroofersshreveport.com/project-types/distribution-center-roofing
+- Manufacturing Plant Roofing in Shreveport, LA: https://commercialroofersshreveport.com/project-types/manufacturing-plant-roofing
+- Government & Municipal Roofing in Shreveport, LA: https://commercialroofersshreveport.com/project-types/government-municipal-roofing
+- Hospital & Surgery Center Roofing in Shreveport, LA: https://commercialroofersshreveport.com/project-types/hospital-surgery-center-roofing
+- Casino & Entertainment Complex Roofing in Shreveport, LA: https://commercialroofersshreveport.com/project-types/casino-entertainment-roofing
+- Commercial Roofing in Downtown Shreveport, LA: https://commercialroofersshreveport.com/locations/downtown-shreveport
+- Commercial Roofing in Bossier City, LA: https://commercialroofersshreveport.com/locations/bossier-city
+- Commercial Roofing in Youree Drive Corridor, LA: https://commercialroofersshreveport.com/locations/youree-drive-corridor
+- Commercial Roofing in Barksdale AFB Area, LA: https://commercialroofersshreveport.com/locations/barksdale-afb-area
+- Commercial Roofing in Haughton, LA: https://commercialroofersshreveport.com/locations/haughton
+- GAF Commercial Roofing Systems in Shreveport, LA: https://commercialroofersshreveport.com/manufacturers/gaf-commercial
+- Sika Sarnafil Roofing Systems in Shreveport, LA: https://commercialroofersshreveport.com/manufacturers/sika-sarnafil
+- Johns Manville Roofing Systems in Shreveport, LA: https://commercialroofersshreveport.com/manufacturers/johns-manville
+- Versico Roofing Systems in Shreveport, LA: https://commercialroofersshreveport.com/manufacturers/versico
+- Elevate (Holcim) Roofing Systems in Shreveport, LA: https://commercialroofersshreveport.com/manufacturers/holcim-elevate
 
-## Commercial Roofing Services
-- https://commercialroofersshreveport.com/services/commercial-roof-inspection
-- https://commercialroofersshreveport.com/services/commercial-roof-leak-repair
-- https://commercialroofersshreveport.com/services/commercial-roof-tear-off-replacement
-- https://commercialroofersshreveport.com/services/preventive-maintenance-programs
-- https://commercialroofersshreveport.com/services/storm-damage-roof-repair
-- https://commercialroofersshreveport.com/services/commercial-reroofing
-- https://commercialroofersshreveport.com/services/roof-recover-overlay
-- https://commercialroofersshreveport.com/services/tpo-single-ply-roofing
-- https://commercialroofersshreveport.com/services/acrylic-roof-coatings
-- https://commercialroofersshreveport.com/services/built-up-roofing
-- https://commercialroofersshreveport.com/services/edge-metal-coping-gutters
-- https://commercialroofersshreveport.com/services/emergency-tarp-dry-in
-- https://commercialroofersshreveport.com/services/epdm-commercial-roofing
-- https://commercialroofersshreveport.com/services/insurance-documentation-support
-- https://commercialroofersshreveport.com/services/metal-r-panel-roofing
-- https://commercialroofersshreveport.com/services/modified-bitumen-roofing
-- https://commercialroofersshreveport.com/services/pvc-roofing
-- https://commercialroofersshreveport.com/services/roof-drains-scuppers
-- https://commercialroofersshreveport.com/services/silicone-roof-coatings
-- https://commercialroofersshreveport.com/services/standing-seam-metal-roofing
-
-## Industries We Serve
-- https://commercialroofersshreveport.com/industries/manufacturing-operators
-- https://commercialroofersshreveport.com/industries/property-management-firms
-- https://commercialroofersshreveport.com/industries/government-public-sector
-- https://commercialroofersshreveport.com/industries/healthcare-systems
-- https://commercialroofersshreveport.com/industries/hospitality-groups
-- https://commercialroofersshreveport.com/industries/retail-chain-operators
-- https://commercialroofersshreveport.com/industries/insurance-restoration
-- https://commercialroofersshreveport.com/industries/general-contractors
-
-## Roof Systems
-- https://commercialroofersshreveport.com/roof-systems/tpo-80-mil
-- https://commercialroofersshreveport.com/roof-systems/tpo-60-mil
-- https://commercialroofersshreveport.com/roof-systems/pvc-roof-systems
-- https://commercialroofersshreveport.com/roof-systems/epdm-black
-- https://commercialroofersshreveport.com/roof-systems/modified-bitumen-sbs
-- https://commercialroofersshreveport.com/roof-systems/silicone-roof-coating
-- https://commercialroofersshreveport.com/roof-systems/spray-polyurethane-foam
-- https://commercialroofersshreveport.com/roof-systems/epdm-white
-
-## Commercial Project Types
-- https://commercialroofersshreveport.com/project-types/distribution-center-roofing
-- https://commercialroofersshreveport.com/project-types/manufacturing-plant-roofing
-- https://commercialroofersshreveport.com/project-types/government-municipal-roofing
-- https://commercialroofersshreveport.com/project-types/hospital-surgery-center-roofing
-- https://commercialroofersshreveport.com/project-types/casino-entertainment-roofing
-- https://commercialroofersshreveport.com/project-types/warehouse-roofing
-- https://commercialroofersshreveport.com/project-types/higher-education-roofing
-- https://commercialroofersshreveport.com/project-types/big-box-retail-roofing
-- https://commercialroofersshreveport.com/project-types/hotel-hospitality-roofing
-- https://commercialroofersshreveport.com/project-types/medical-office-building-roofing
-- https://commercialroofersshreveport.com/project-types/multi-tenant-retail-strip-roofing
-- https://commercialroofersshreveport.com/project-types/multifamily-apartment-roofing
-
-## Roofing Manufacturers
-- https://commercialroofersshreveport.com/manufacturers/gaf-commercial
-- https://commercialroofersshreveport.com/manufacturers/sika-sarnafil
-- https://commercialroofersshreveport.com/manufacturers/johns-manville
-- https://commercialroofersshreveport.com/manufacturers/versico
-- https://commercialroofersshreveport.com/manufacturers/holcim-elevate
-- https://commercialroofersshreveport.com/manufacturers/carlisle-syntec
+## Use guidance
+This file summarizes the site's crawlable commercial roofing content for search engines, AI assistants, and research tools. Use canonical URLs from the sitemap for citation and navigation.
