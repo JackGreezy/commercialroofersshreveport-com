@@ -3,9 +3,9 @@ set -euo pipefail
 ROOT=/Users/jackgreenberg/Desktop/rank-and-rent
 S=$ROOT/David/clones/scripts
 PROJ=$ROOT/commercial-roofing/commercialroofersshreveport-com
-REFHOST=nylpj-com
+REFHOST=big-d-com
 VOICE=$S/voice/commercial-roofing.json
-PAGES="home=https://www.nylpj.com/,about=https://www.nylpj.com/about,contact=https://www.nylpj.com/contact,index=https://www.nylpj.com/projects,slug=https://www.nylpj.com/projects/fmi-morenci-mine-heap-leach-stacking-equipment"
+PAGES="home=https://www.big-d.com/,about=https://www.big-d.com/about,contact=https://www.big-d.com/contact,index=https://www.big-d.com/projects,slug=https://www.big-d.com/projects/fmi-morenci-mine-heap-leach-stacking-equipment"
 CFG=$PROJ/home.config.json
 MAP=$S/relabel-map-$REFHOST.json
 CAP=$ROOT/David/clones/_captures/$REFHOST-v1
@@ -17,7 +17,8 @@ if [ ! -f "$CAP/public/home.html.ref" ]; then
 fi
 mkdir -p "$PROJ/public"
 cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true
-[ -d "$PROJ/public/assets-f" ] || cp -R "$CAP/public/assets-f" "$PROJ/public/"
+rm -rf "$PROJ/public/assets-f"
+cp -R "$CAP/public/assets-f" "$PROJ/public/"
 mkdir -p "$PROJ/qa-out"
 cp "$CAP"/qa-out/ref-*.png "$PROJ/qa-out/" 2>/dev/null || true
 python3 "$S/normalize_content.py" "$PROJ" --voice "$VOICE"

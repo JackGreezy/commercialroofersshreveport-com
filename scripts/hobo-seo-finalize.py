@@ -247,11 +247,14 @@ def set_metadata(soup: BeautifulSoup, route: str):
     else:
         t = soup.new_tag("title"); t.string = title; soup.head.append(t)
     for tag in list(soup.head.find_all("meta")):
+        if tag.get("name") == "google-site-verification":
+            tag.decompose()
+            continue
         if tag.get("name") in {"description", "robots", "twitter:card", "twitter:title", "twitter:description", "twitter:image", "twitter:image:alt"}:
             tag.decompose()
             continue
         prop = tag.get("property")
-        if prop and (str(prop).startswith("og:") or prop in {"article:modified_time"}):
+        if prop and (str(prop).startswith(("og:", "twitter:", "article:"))):
             tag.decompose()
     upsert_meta(soup, "name", "description", desc)
     robots = "noindex, follow" if route == "/404" else "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -662,8 +665,8 @@ def legal_page(kind: str, date: str) -> str:
     set_metadata(soup, route)
     replace_banned_phrases(soup, int(hashlib.md5((BIZ["domain"] + kind).encode()).hexdigest(), 16))
     ensure_footer_links(soup)
-    ensure_mobile_dropdown_assets(soup)
-    ensure_color_scheme_assets(soup)
+    # The faithful Big-D shell already owns navigation, breakpoints, and color.
+    # Adding a generic dropdown or palette here breaks the donor match.
     return str(soup)
 
 def write_legal_pages():
@@ -735,11 +738,18 @@ def patch_all_html():
             # data/rendered fragment; infer from filename/stem when possible
             route = "/" + p.stem.replace("__", "/") if p.stem not in {"home", "index"} else "/"
         set_metadata(soup, route)
-        replace_visible_address(soup)
+        # One visible page title only. Rich detail copy may contain authored H1s
+        # from its source JSON; the donor hero remains the canonical page H1.
+        for extra_h1 in soup.find_all("h1")[1:]:
+            extra_h1.name = "h2"
+        # The contact page intentionally presents the supplied office details in
+        # the donor's real office-card geometry. Other pages still suppress the
+        # visible street address in favor of an embedded map.
+        if route != "/contact":
+            replace_visible_address(soup)
         replace_banned_phrases(soup, salt)
         ensure_footer_links(soup)
-        ensure_mobile_dropdown_assets(soup)
-        ensure_color_scheme_assets(soup)
+        # Preserve the captured Big-D navigation and palette exactly.
         # Descriptive alt text for informative images without stuffing.
         for img in soup.find_all("img"):
             alt = clean(img.get("alt"))
