@@ -29,6 +29,7 @@ src, dst = os.path.join(p, 'public/images'), os.path.join(p, 'public/ours')
 if os.path.isdir(src): shutil.copytree(src, dst, dirs_exist_ok=True)
 PY
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
+python3 "$PROJ/scripts/remove-header-background-logo.py" "$PROJ"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
