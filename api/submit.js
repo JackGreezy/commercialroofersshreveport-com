@@ -1,3 +1,16 @@
+function isBlockedContactName(body) {
+  const source = body instanceof FormData
+    ? Object.fromEntries(body.entries())
+    : body && typeof body === "object" ? body : {};
+  const first = String(source.firstName ?? source.first_name ?? source.first ?? "");
+  const last = String(source.lastName ?? source.last_name ?? source.last ?? "");
+  const candidates = [source.name, source.fullName, source.full_name, source.contactName, [first, last].filter(Boolean).join(" ")];
+  return candidates.some((value) => {
+    const normalized = String(value ?? "").toLowerCase().replace(/[^a-z]+/g, " ").trim();
+    return normalized === "joanna riggs" || normalized === "trey webb" || normalized === "trey web";
+  });
+}
+
 const contactConfig = {"name": "Commercial Roofers of Shreveport", "domain": "commercialroofersshreveport.com", "address": "401 Edwards St, Suite 1100, Shreveport, LA 71101", "phone": "555-555-6135", "phoneTel": "5555556135", "email": "hello@commercialroofersshreveport.com", "city": "Shreveport", "state": ""};
 
 const DEFAULT_TEMPLATE_ID = "d-15217ab1c55347b5847c2421b1a82847";
@@ -68,6 +81,7 @@ module.exports = async function handler(req, res) {
   if (!rate.allowed) { const retryAfter = Math.ceil((rate.reset - Date.now()) / 1000); return sendJson(res, 429, { ok: false, success: false, error: "Rate limit exceeded. Please try again later.", retryAfter }, { ...headers, "Retry-After": String(retryAfter) }); }
   let body; try { body = await readPayload(req); } catch { return sendJson(res, 400, { ok: false, success: false, message: "Invalid request payload.", error: "Invalid request payload." }, headers); }
   if (clean(body._company) || clean(body.website)) return sendJson(res, 200, { ok: true, success: true }, headers);
+  if (isBlockedContactName(body)) return sendJson(res, 200, { ok: true, success: true }, headers);
   const lead = normalizeLead(body, req); const validationError = validateLead(lead);
   if (validationError) return sendJson(res, 400, { ok: false, success: false, message: validationError, error: validationError }, headers);
   try { await sendLeadEmails(lead, req); } catch (error) { console.error("Contact email send failed", error); const message = error && error.message === "SENDGRID_API_KEY is missing." ? "Email service is not configured." : "We could not submit your request right now. Please call us directly."; return sendJson(res, 500, { ok: false, success: false, message, error: "email-send-failed" }, headers); }
