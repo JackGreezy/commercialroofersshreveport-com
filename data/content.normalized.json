@@ -3,9 +3,10 @@
   "name": "Commercial Roofers of Shreveport",
   "city": "Shreveport",
   "region": "Shreveport, Bossier City, Caddo Parish, Bossier Parish, and surrounding Ark-La-Tex communities",
-  "phone": "555-555-6135",
+  "phone": "",
   "email": "hello@commercialroofersshreveport.com",
-  "domain": "commercialroofersshreveport.com"
+  "domain": "commercialroofersshreveport.com",
+  "vertical": ""
  },
  "taxonomies": {
   "locations": {

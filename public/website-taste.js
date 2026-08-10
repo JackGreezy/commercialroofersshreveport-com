@@ -1,4 +1,19 @@
 (() => {
+  const serviceMap = {
+    "emergency-repair": "Emergency Roof Repair",
+    "flat-roof-inspection": "Flat Roof Inspection",
+    "roof-repair": "Roof Repair",
+    "roof-coating": "Roof Coating or Restoration",
+    "roof-replacement": "Commercial Roof Replacement",
+    "service-agreement": "Service Agreement",
+  };
+  const requestedService = new URLSearchParams(location.search).get("service");
+  if (requestedService && serviceMap[requestedService]) {
+    for (const select of document.querySelectorAll('select[name="serviceType"]')) {
+      select.value = serviceMap[requestedService];
+    }
+  }
+
   const icon = (direction) => {
     const path = direction === "previous" ? "M15 4 7 12l8 8" : "m9 4 8 8-8 8";
     return `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="${path}" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4"/></svg>`;

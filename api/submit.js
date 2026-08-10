@@ -11,7 +11,7 @@ function isBlockedContactName(body) {
   });
 }
 
-const contactConfig = {"name": "Commercial Roofers of Shreveport", "domain": "commercialroofersshreveport.com", "address": "401 Edwards St, Suite 1100, Shreveport, LA 71101", "phone": "555-555-6135", "phoneTel": "5555556135", "email": "hello@commercialroofersshreveport.com", "city": "Shreveport", "state": ""};
+const contactConfig = {"name": "Commercial Roofers of Shreveport", "domain": "commercialroofersshreveport.com", "address": "401 Edwards St, Suite 1100, Shreveport, LA 71101", "phone": "", "phoneTel": "", "email": "hello@commercialroofersshreveport.com", "city": "Shreveport", "state": ""};
 
 const DEFAULT_TEMPLATE_ID = "d-15217ab1c55347b5847c2421b1a82847";
 const buckets = new Map();
