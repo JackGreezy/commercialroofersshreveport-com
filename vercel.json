@@ -4,6 +4,30 @@
   "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
   "rewrites": [
     {
+      "source": "/roof-systems/modified-bitumen-systems",
+      "destination": "/roof-systems/modified-bitumen-systems.html"
+    },
+    {
+      "source": "/roof-systems/modified-bitumen-systems/",
+      "destination": "/roof-systems/modified-bitumen-systems.html"
+    },
+    {
+      "source": "/services/emergency-tarp-dry-in",
+      "destination": "/services/emergency-tarp-dry-in.html"
+    },
+    {
+      "source": "/services/emergency-tarp-dry-in/",
+      "destination": "/services/emergency-tarp-dry-in.html"
+    },
+    {
+      "source": "/services/commercial-roof-leak-repair",
+      "destination": "/services/commercial-roof-leak-repair.html"
+    },
+    {
+      "source": "/services/commercial-roof-leak-repair/",
+      "destination": "/services/commercial-roof-leak-repair.html"
+    },
+    {
       "source": "/services/drain-cleaning-repair",
       "destination": "/services/drain-cleaning-repair.html"
     },
@@ -12,12 +36,44 @@
       "destination": "/services/drain-cleaning-repair.html"
     },
     {
-      "source": "/roof-systems/modified-bitumen-systems",
-      "destination": "/roof-systems/modified-bitumen-systems.html"
+      "source": "/services/commercial-roof-inspection",
+      "destination": "/services/commercial-roof-inspection.html"
     },
     {
-      "source": "/roof-systems/modified-bitumen-systems/",
-      "destination": "/roof-systems/modified-bitumen-systems.html"
+      "source": "/services/commercial-roof-inspection/",
+      "destination": "/services/commercial-roof-inspection.html"
+    },
+    {
+      "source": "/services/preventive-maintenance-programs",
+      "destination": "/services/preventive-maintenance-programs.html"
+    },
+    {
+      "source": "/services/preventive-maintenance-programs/",
+      "destination": "/services/preventive-maintenance-programs.html"
+    },
+    {
+      "source": "/services/silicone-roof-coatings",
+      "destination": "/services/silicone-roof-coatings.html"
+    },
+    {
+      "source": "/services/silicone-roof-coatings/",
+      "destination": "/services/silicone-roof-coatings.html"
+    },
+    {
+      "source": "/services/commercial-roof-tear-off-replacement",
+      "destination": "/services/commercial-roof-tear-off-replacement.html"
+    },
+    {
+      "source": "/services/commercial-roof-tear-off-replacement/",
+      "destination": "/services/commercial-roof-tear-off-replacement.html"
+    },
+    {
+      "source": "/capabilities/roof-asset-management",
+      "destination": "/capabilities/roof-asset-management.html"
+    },
+    {
+      "source": "/capabilities/roof-asset-management/",
+      "destination": "/capabilities/roof-asset-management.html"
     }
   ]
 }
