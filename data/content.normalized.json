@@ -11,7 +11,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "downtown-shreveport",
@@ -27,23 +27,23 @@
      "related": [
       {
        "label": "Benton: New Retail Growth Meets an Older Parish Seat",
-       "href": "/locations/benton"
+       "href": "/service-areas/benton"
       },
       {
        "label": "Blanchard: Small-Scale Commercial and Gas-Field Support Buildings",
-       "href": "/locations/blanchard"
+       "href": "/service-areas/blanchard"
       },
       {
        "label": "Bossier City Roofs: Casino Decks, Base-Belt Retail, and I-20 Growth",
-       "href": "/locations/bossier-city"
+       "href": "/service-areas/bossier-city"
       },
       {
        "label": "Coushatta's Courthouse Square and Ag-Service Buildings",
-       "href": "/locations/coushatta"
+       "href": "/service-areas/coushatta"
       },
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "EPDM Rubber Roofing for Older Shreveport-Bossier Buildings",
@@ -93,23 +93,23 @@
      "related": [
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "Haughton: An I-20 Bedroom Town Building Out Fast",
-       "href": "/locations/haughton"
+       "href": "/service-areas/haughton"
       },
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Roofing the Last Few Miles Before Arkansas",
-       "href": "/locations/ida"
+       "href": "/service-areas/ida"
       },
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Maintenance Programs That Match Your Capital Budget Cycle, Not Ours",
@@ -155,23 +155,23 @@
      "related": [
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "Small-Building Roofing Around Fillmore",
-       "href": "/locations/fillmore"
+       "href": "/service-areas/fillmore"
       },
       {
        "label": "Roofing Shale-Country Buildings Along Highway 175 in Frierson",
-       "href": "/locations/frierson"
+       "href": "/service-areas/frierson"
       },
       {
        "label": "Cotton Gin Roofs and Rail-Town Buildings in Gilliam",
-       "href": "/locations/gilliam"
+       "href": "/service-areas/gilliam"
       },
       {
        "label": "Historic Storefronts Meet Shale-Country Traffic in Grand Cane",
-       "href": "/locations/grand-cane"
+       "href": "/service-areas/grand-cane"
       },
       {
        "label": "EPDM Rubber Roofing for Older Shreveport-Bossier Buildings",
@@ -221,23 +221,23 @@
      "related": [
       {
        "label": "Timber and Gas: Two Industries, One Roofing Crew in Ringgold",
-       "href": "/locations/ringgold"
+       "href": "/service-areas/ringgold"
       },
       {
        "label": "Sibley: Roofing a Highway 371 Crossroads South of Minden",
-       "href": "/locations/sibley"
+       "href": "/service-areas/sibley"
       },
       {
        "label": "Stonewall: Roofing DeSoto Parish's Growing Edge Without Pretending It's a City",
-       "href": "/locations/stonewall"
+       "href": "/service-areas/stonewall"
       },
       {
        "label": "Vivian: Roofing a North Caddo Hub Town Built on an Oil Boom That Ended Decades Ago",
-       "href": "/locations/vivian"
+       "href": "/service-areas/vivian"
       },
       {
        "label": "Travel-Corridor Roofing Where I-20 Crosses Into Texas at Waskom",
-       "href": "/locations/waskom"
+       "href": "/service-areas/waskom"
       },
       {
        "label": "TPO Membrane Roofing for Shreveport-Bossier Facilities",
@@ -287,23 +287,23 @@
      "related": [
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Standing Seam Metal Roofing for Shreveport-Bossier Buildings",
@@ -353,23 +353,23 @@
      "related": [
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Roofing the Last Few Miles Before Arkansas",
-       "href": "/locations/ida"
+       "href": "/service-areas/ida"
       },
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Metal R-Panel Roofing for I-20 Warehouses and Plant Buildings",
@@ -419,23 +419,23 @@
      "related": [
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "Haughton: An I-20 Bedroom Town Building Out Fast",
-       "href": "/locations/haughton"
+       "href": "/service-areas/haughton"
       },
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Roofing the Last Few Miles Before Arkansas",
-       "href": "/locations/ida"
+       "href": "/service-areas/ida"
       },
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Getting a Building Dry Fast After the Roof Opens Up",
@@ -485,23 +485,23 @@
      "related": [
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Recover Systems: Getting a New Roof Without Tearing Off the Old One",
@@ -551,23 +551,23 @@
      "related": [
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Maintenance Programs That Match Your Capital Budget Cycle, Not Ours",
@@ -613,23 +613,23 @@
      "related": [
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Roofing the Last Few Miles Before Arkansas",
-       "href": "/locations/ida"
+       "href": "/service-areas/ida"
       },
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Commercial Reroofing for Shreveport-Bossier Facilities",
@@ -679,23 +679,23 @@
      "related": [
       {
        "label": "Small-Building Roofing Around Fillmore",
-       "href": "/locations/fillmore"
+       "href": "/service-areas/fillmore"
       },
       {
        "label": "Roofing Shale-Country Buildings Along Highway 175 in Frierson",
-       "href": "/locations/frierson"
+       "href": "/service-areas/frierson"
       },
       {
        "label": "Cotton Gin Roofs and Rail-Town Buildings in Gilliam",
-       "href": "/locations/gilliam"
+       "href": "/service-areas/gilliam"
       },
       {
        "label": "Historic Storefronts Meet Shale-Country Traffic in Grand Cane",
-       "href": "/locations/grand-cane"
+       "href": "/service-areas/grand-cane"
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "Full Tear-Off and Roof Replacement Projects Across Shreveport-Bossier",
@@ -741,23 +741,23 @@
      "related": [
       {
        "label": "Benton: New Retail Growth Meets an Older Parish Seat",
-       "href": "/locations/benton"
+       "href": "/service-areas/benton"
       },
       {
        "label": "Blanchard: Small-Scale Commercial and Gas-Field Support Buildings",
-       "href": "/locations/blanchard"
+       "href": "/service-areas/blanchard"
       },
       {
        "label": "Bossier City Roofs: Casino Decks, Base-Belt Retail, and I-20 Growth",
-       "href": "/locations/bossier-city"
+       "href": "/service-areas/bossier-city"
       },
       {
        "label": "Coushatta's Courthouse Square and Ag-Service Buildings",
-       "href": "/locations/coushatta"
+       "href": "/service-areas/coushatta"
       },
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "PVC Roofing for Kitchens, Exhaust, and Chemical Exposure",
@@ -807,23 +807,23 @@
      "related": [
       {
        "label": "Sibley: Roofing a Highway 371 Crossroads South of Minden",
-       "href": "/locations/sibley"
+       "href": "/service-areas/sibley"
       },
       {
        "label": "Stonewall: Roofing DeSoto Parish's Growing Edge Without Pretending It's a City",
-       "href": "/locations/stonewall"
+       "href": "/service-areas/stonewall"
       },
       {
        "label": "Vivian: Roofing a North Caddo Hub Town Built on an Oil Boom That Ended Decades Ago",
-       "href": "/locations/vivian"
+       "href": "/service-areas/vivian"
       },
       {
        "label": "Travel-Corridor Roofing Where I-20 Crosses Into Texas at Waskom",
-       "href": "/locations/waskom"
+       "href": "/service-areas/waskom"
       },
       {
        "label": "Youree Drive: Shreveport's Retail Spine, Restaurant Roofs, and LSUS",
-       "href": "/locations/youree-drive-corridor"
+       "href": "/service-areas/youree-drive-corridor"
       },
       {
        "label": "Full Tear-Off and Roof Replacement Projects Across Shreveport-Bossier",
@@ -869,23 +869,23 @@
      "related": [
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Roofing the Last Few Miles Before Arkansas",
-       "href": "/locations/ida"
+       "href": "/service-areas/ida"
       },
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "TPO Membrane Roofing for Shreveport-Bossier Facilities",
@@ -935,23 +935,23 @@
      "related": [
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Acrylic Coatings for Metal and Well-Draining Roofs",
@@ -997,23 +997,23 @@
      "related": [
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Red Chute: Roofing a Bossier Parish Community Along Barksdale's Eastern Edge",
-       "href": "/locations/red-chute"
+       "href": "/service-areas/red-chute"
       },
       {
        "label": "Timber and Gas: Two Industries, One Roofing Crew in Ringgold",
-       "href": "/locations/ringgold"
+       "href": "/service-areas/ringgold"
       },
       {
        "label": "EPDM Rubber Roofing for Older Shreveport-Bossier Buildings",
@@ -1063,23 +1063,23 @@
      "related": [
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "Downtown Shreveport: Older Office Stock, Casinos, and the Convention District",
-       "href": "/locations/downtown-shreveport"
+       "href": "/service-areas/downtown-shreveport"
       },
       {
        "label": "Doyline: Roofing a Lake Bistineau Town Next Door to Camp Minden",
-       "href": "/locations/doyline"
+       "href": "/service-areas/doyline"
       },
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "Small-Building Roofing Around Fillmore",
-       "href": "/locations/fillmore"
+       "href": "/service-areas/fillmore"
       },
       {
        "label": "Documentation That Holds Up When a Roof Claim Gets Reviewed",
@@ -1129,23 +1129,23 @@
      "related": [
       {
        "label": "Cotton Gin Roofs and Rail-Town Buildings in Gilliam",
-       "href": "/locations/gilliam"
+       "href": "/service-areas/gilliam"
       },
       {
        "label": "Historic Storefronts Meet Shale-Country Traffic in Grand Cane",
-       "href": "/locations/grand-cane"
+       "href": "/service-areas/grand-cane"
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "Haughton: An I-20 Bedroom Town Building Out Fast",
-       "href": "/locations/haughton"
+       "href": "/service-areas/haughton"
       },
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Standing Seam Metal Roofing for Shreveport-Bossier Buildings",
@@ -1195,23 +1195,23 @@
      "related": [
       {
        "label": "Small-Building Roofing Around Fillmore",
-       "href": "/locations/fillmore"
+       "href": "/service-areas/fillmore"
       },
       {
        "label": "Roofing Shale-Country Buildings Along Highway 175 in Frierson",
-       "href": "/locations/frierson"
+       "href": "/service-areas/frierson"
       },
       {
        "label": "Cotton Gin Roofs and Rail-Town Buildings in Gilliam",
-       "href": "/locations/gilliam"
+       "href": "/service-areas/gilliam"
       },
       {
        "label": "Historic Storefronts Meet Shale-Country Traffic in Grand Cane",
-       "href": "/locations/grand-cane"
+       "href": "/service-areas/grand-cane"
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "Built-Up Roofing: What's Actually Under Half of Downtown Shreveport",
@@ -1261,23 +1261,23 @@
      "related": [
       {
        "label": "Youree Drive: Shreveport's Retail Spine, Restaurant Roofs, and LSUS",
-       "href": "/locations/youree-drive-corridor"
+       "href": "/service-areas/youree-drive-corridor"
       },
       {
        "label": "Barksdale AFB Area: Roofing the Buildings That Support the Mission",
-       "href": "/locations/barksdale-afb-area"
+       "href": "/service-areas/barksdale-afb-area"
       },
       {
        "label": "Grain Elevators and Farm Buildings: Roofing in Belcher",
-       "href": "/locations/belcher"
+       "href": "/service-areas/belcher"
       },
       {
        "label": "Benton: New Retail Growth Meets an Older Parish Seat",
-       "href": "/locations/benton"
+       "href": "/service-areas/benton"
       },
       {
        "label": "Blanchard: Small-Scale Commercial and Gas-Field Support Buildings",
-       "href": "/locations/blanchard"
+       "href": "/service-areas/blanchard"
       },
       {
        "label": "TPO Membrane Roofing for Shreveport-Bossier Facilities",
@@ -1327,23 +1327,23 @@
      "related": [
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Red Chute: Roofing a Bossier Parish Community Along Barksdale's Eastern Edge",
-       "href": "/locations/red-chute"
+       "href": "/service-areas/red-chute"
       },
       {
        "label": "Timber and Gas: Two Industries, One Roofing Crew in Ringgold",
-       "href": "/locations/ringgold"
+       "href": "/service-areas/ringgold"
       },
       {
        "label": "Sibley: Roofing a Highway 371 Crossroads South of Minden",
-       "href": "/locations/sibley"
+       "href": "/service-areas/sibley"
       },
       {
        "label": "Stonewall: Roofing DeSoto Parish's Growing Edge Without Pretending It's a City",
-       "href": "/locations/stonewall"
+       "href": "/service-areas/stonewall"
       },
       {
        "label": "Recover Systems: Getting a New Roof Without Tearing Off the Old One",
@@ -1393,23 +1393,23 @@
      "related": [
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Keeping Roof Drains and Scuppers From Becoming Your Next Flood Call",
@@ -1459,23 +1459,23 @@
      "related": [
       {
        "label": "Barksdale AFB Area: Roofing the Buildings That Support the Mission",
-       "href": "/locations/barksdale-afb-area"
+       "href": "/service-areas/barksdale-afb-area"
       },
       {
        "label": "Grain Elevators and Farm Buildings: Roofing in Belcher",
-       "href": "/locations/belcher"
+       "href": "/service-areas/belcher"
       },
       {
        "label": "Benton: New Retail Growth Meets an Older Parish Seat",
-       "href": "/locations/benton"
+       "href": "/service-areas/benton"
       },
       {
        "label": "Blanchard: Small-Scale Commercial and Gas-Field Support Buildings",
-       "href": "/locations/blanchard"
+       "href": "/service-areas/blanchard"
       },
       {
        "label": "Bossier City Roofs: Casino Decks, Base-Belt Retail, and I-20 Growth",
-       "href": "/locations/bossier-city"
+       "href": "/service-areas/bossier-city"
       },
       {
        "label": "Getting a Building Dry Fast After the Roof Opens Up",
@@ -1525,23 +1525,23 @@
      "related": [
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Full Tear-Off and Roof Replacement Projects Across Shreveport-Bossier",
@@ -1587,23 +1587,23 @@
      "related": [
       {
        "label": "Roofing the Last Few Miles Before Arkansas",
-       "href": "/locations/ida"
+       "href": "/service-areas/ida"
       },
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Modified Bitumen Roofing as a Recover Over Aging Membrane",
@@ -1653,23 +1653,23 @@
      "related": [
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Red Chute: Roofing a Bossier Parish Community Along Barksdale's Eastern Edge",
-       "href": "/locations/red-chute"
+       "href": "/service-areas/red-chute"
       },
       {
        "label": "PVC Roofing for Kitchens, Exhaust, and Chemical Exposure",
@@ -1719,23 +1719,23 @@
      "related": [
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Full Tear-Off and Roof Replacement Projects Across Shreveport-Bossier",
@@ -1781,23 +1781,23 @@
      "related": [
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Commercial Reroofing for Shreveport-Bossier Facilities",
@@ -1847,23 +1847,23 @@
      "related": [
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Red Chute: Roofing a Bossier Parish Community Along Barksdale's Eastern Edge",
-       "href": "/locations/red-chute"
+       "href": "/service-areas/red-chute"
       },
       {
        "label": "Timber and Gas: Two Industries, One Roofing Crew in Ringgold",
-       "href": "/locations/ringgold"
+       "href": "/service-areas/ringgold"
       },
       {
        "label": "Sibley: Roofing a Highway 371 Crossroads South of Minden",
-       "href": "/locations/sibley"
+       "href": "/service-areas/sibley"
       },
       {
        "label": "Metal R-Panel Roofing for I-20 Warehouses and Plant Buildings",
@@ -1913,23 +1913,23 @@
      "related": [
       {
        "label": "Coushatta's Courthouse Square and Ag-Service Buildings",
-       "href": "/locations/coushatta"
+       "href": "/service-areas/coushatta"
       },
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "Downtown Shreveport: Older Office Stock, Casinos, and the Convention District",
-       "href": "/locations/downtown-shreveport"
+       "href": "/service-areas/downtown-shreveport"
       },
       {
        "label": "Doyline: Roofing a Lake Bistineau Town Next Door to Camp Minden",
-       "href": "/locations/doyline"
+       "href": "/service-areas/doyline"
       },
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "Roof Inspections That Give Facilities Teams a Real Number to Work With",
@@ -1975,23 +1975,23 @@
      "related": [
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "Minden: Manufacturing Roofs and Webster Parish's Older Commercial Core",
-       "href": "/locations/minden"
+       "href": "/service-areas/minden"
       },
       {
        "label": "Mooringsport: Roofing a Caddo Lake Town Where Marine and Gas-Field Work Overlap",
-       "href": "/locations/mooringsport"
+       "href": "/service-areas/mooringsport"
       },
       {
        "label": "Oil City: Roofing the Buildings Left Behind by an Early Oil Boom",
-       "href": "/locations/oil-city"
+       "href": "/service-areas/oil-city"
       },
       {
        "label": "Maintenance Programs That Match Your Capital Budget Cycle, Not Ours",
@@ -2037,23 +2037,23 @@
      "related": [
       {
        "label": "Timber and Gas: Two Industries, One Roofing Crew in Ringgold",
-       "href": "/locations/ringgold"
+       "href": "/service-areas/ringgold"
       },
       {
        "label": "Sibley: Roofing a Highway 371 Crossroads South of Minden",
-       "href": "/locations/sibley"
+       "href": "/service-areas/sibley"
       },
       {
        "label": "Stonewall: Roofing DeSoto Parish's Growing Edge Without Pretending It's a City",
-       "href": "/locations/stonewall"
+       "href": "/service-areas/stonewall"
       },
       {
        "label": "Vivian: Roofing a North Caddo Hub Town Built on an Oil Boom That Ended Decades Ago",
-       "href": "/locations/vivian"
+       "href": "/service-areas/vivian"
       },
       {
        "label": "Youree Drive: Shreveport's Retail Spine, Restaurant Roofs, and LSUS",
-       "href": "/locations/youree-drive-corridor"
+       "href": "/service-areas/youree-drive-corridor"
       },
       {
        "label": "Documentation That Holds Up When a Roof Claim Gets Reviewed",
@@ -2183,7 +2183,7 @@
       },
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "An Occupied Guest Room Changes Every Roofing Decision We Make",
@@ -2245,7 +2245,7 @@
       },
       {
        "label": "Barksdale AFB Area: Roofing the Buildings That Support the Mission",
-       "href": "/locations/barksdale-afb-area"
+       "href": "/service-areas/barksdale-afb-area"
       },
       {
        "label": "A Sales Floor Leak Becomes a Liability File Before It Becomes a Work Order",
@@ -2299,7 +2299,7 @@
       },
       {
        "label": "Coushatta's Courthouse Square and Ag-Service Buildings",
-       "href": "/locations/coushatta"
+       "href": "/service-areas/coushatta"
       },
       {
        "label": "Every Tenant Suite Adds a Roof Penetration Somebody Has to Track",
@@ -2357,7 +2357,7 @@
       },
       {
        "label": "Benton: New Retail Growth Meets an Older Parish Seat",
-       "href": "/locations/benton"
+       "href": "/service-areas/benton"
       },
       {
        "label": "Summer Break Is the Whole Roofing Season on a Campus",
@@ -2415,7 +2415,7 @@
       },
       {
        "label": "Roofing the Last Few Miles Before Arkansas",
-       "href": "/locations/ida"
+       "href": "/service-areas/ida"
       },
       {
        "label": "An Occupied Unit Turns a Simple Repair Into a Notice-and-Access Problem",
@@ -2623,7 +2623,7 @@
       },
       {
        "label": "Keithville: Roof Work for Southwest Caddo Parish's Rural Building Stock",
-       "href": "/locations/keithville"
+       "href": "/service-areas/keithville"
       },
       {
        "label": "The Roof Plan Has to Fit Around the Dock Schedule, Not the Other Way Around",
@@ -2685,7 +2685,7 @@
       },
       {
        "label": "Coushatta's Courthouse Square and Ag-Service Buildings",
-       "href": "/locations/coushatta"
+       "href": "/service-areas/coushatta"
       },
       {
        "label": "Every Tenant Suite Adds a Roof Penetration Somebody Has to Track",
@@ -2751,7 +2751,7 @@
       },
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "A Sales Floor Leak Becomes a Liability File Before It Becomes a Work Order",
@@ -2809,7 +2809,7 @@
       },
       {
        "label": "Sibley: Roofing a Highway 371 Crossroads South of Minden",
-       "href": "/locations/sibley"
+       "href": "/service-areas/sibley"
       },
       {
        "label": "An Occupied Unit Turns a Simple Repair Into a Notice-and-Access Problem",
@@ -2859,7 +2859,7 @@
       },
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "The Gaming Floor Can't Close, So the Roof Above It Doesn't Get a Slow Season",
@@ -2913,7 +2913,7 @@
       },
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "Every Tenant Suite Adds a Roof Penetration Somebody Has to Track",
@@ -2975,7 +2975,7 @@
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "An Occupied Unit Turns a Simple Repair Into a Notice-and-Access Problem",
@@ -3037,7 +3037,7 @@
       },
       {
        "label": "Small-Building Roofing Around Fillmore",
-       "href": "/locations/fillmore"
+       "href": "/service-areas/fillmore"
       },
       {
        "label": "Every Tenant Suite Adds a Roof Penetration Somebody Has to Track",
@@ -3099,7 +3099,7 @@
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "A Sales Floor Leak Becomes a Liability File Before It Becomes a Work Order",
@@ -3177,7 +3177,7 @@
       },
       {
        "label": "Travel-Corridor Roofing Where I-20 Crosses Into Texas at Waskom",
-       "href": "/locations/waskom"
+       "href": "/service-areas/waskom"
       },
       {
        "label": "Most of These Plants Are Older Than the Companies Running Them Now",
@@ -3239,7 +3239,7 @@
       },
       {
        "label": "Benton: New Retail Growth Meets an Older Parish Seat",
-       "href": "/locations/benton"
+       "href": "/service-areas/benton"
       },
       {
        "label": "An Occupied Unit Turns a Simple Repair Into a Notice-and-Access Problem",
@@ -3297,7 +3297,7 @@
       },
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "An Occupied Unit Turns a Simple Repair Into a Notice-and-Access Problem",
@@ -3359,7 +3359,7 @@
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "The Roof Plan Has to Fit Around the Dock Schedule, Not the Other Way Around",
@@ -3421,7 +3421,7 @@
       },
       {
        "label": "Bossier City Roofs: Casino Decks, Base-Belt Retail, and I-20 Growth",
-       "href": "/locations/bossier-city"
+       "href": "/service-areas/bossier-city"
       },
       {
        "label": "The Roof Plan Has to Fit Around the Dock Schedule, Not the Other Way Around",
@@ -3475,7 +3475,7 @@
       },
       {
        "label": "Sibley: Roofing a Highway 371 Crossroads South of Minden",
-       "href": "/locations/sibley"
+       "href": "/service-areas/sibley"
       },
       {
        "label": "Most of These Plants Are Older Than the Companies Running Them Now",
@@ -3543,7 +3543,7 @@
       },
       {
        "label": "Downtown Shreveport: Older Office Stock, Casinos, and the Convention District",
-       "href": "/locations/downtown-shreveport"
+       "href": "/service-areas/downtown-shreveport"
       },
       {
        "label": "One Roof, a Dozen Leases, and Nobody Agreeing on Whose Repair It Is",
@@ -3609,7 +3609,7 @@
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "The Gaming Floor Can't Close, So the Roof Above It Doesn't Get a Slow Season",
@@ -3675,7 +3675,7 @@
       },
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "A Hospital Roof Answers to Infection Control Before It Answers to Facilities",
@@ -3741,7 +3741,7 @@
       },
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Most of These Plants Are Older Than the Companies Running Them Now",
@@ -3807,7 +3807,7 @@
       },
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Most of These Plants Are Older Than the Companies Running Them Now",
@@ -3873,7 +3873,7 @@
       },
       {
        "label": "Downtown Shreveport: Older Office Stock, Casinos, and the Convention District",
-       "href": "/locations/downtown-shreveport"
+       "href": "/service-areas/downtown-shreveport"
       },
       {
        "label": "A Public Building's Roof Budget Gets Decided Long Before the Leak Shows Up",
@@ -3939,7 +3939,7 @@
       },
       {
        "label": "Downtown Shreveport: Older Office Stock, Casinos, and the Convention District",
-       "href": "/locations/downtown-shreveport"
+       "href": "/service-areas/downtown-shreveport"
       },
       {
        "label": "The Roof Plan Has to Fit Around the Dock Schedule, Not the Other Way Around",
@@ -4001,7 +4001,7 @@
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "A Sales Floor Leak Becomes a Liability File Before It Becomes a Work Order",
@@ -4069,7 +4069,7 @@
       },
       {
        "label": "Coushatta's Courthouse Square and Ag-Service Buildings",
-       "href": "/locations/coushatta"
+       "href": "/service-areas/coushatta"
       },
       {
        "label": "A Sales Floor Leak Becomes a Liability File Before It Becomes a Work Order",
@@ -4135,7 +4135,7 @@
       },
       {
        "label": "Roofing for Elm Grove's Gas-Field Yards and Farm Buildings",
-       "href": "/locations/elm-grove"
+       "href": "/service-areas/elm-grove"
       },
       {
        "label": "The Roof Plan Has to Fit Around the Dock Schedule, Not the Other Way Around",
@@ -4197,7 +4197,7 @@
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "The Gaming Floor Can't Close, So the Roof Above It Doesn't Get a Slow Season",
@@ -4259,7 +4259,7 @@
       },
       {
        "label": "Downtown Shreveport: Older Office Stock, Casinos, and the Convention District",
-       "href": "/locations/downtown-shreveport"
+       "href": "/service-areas/downtown-shreveport"
       },
       {
        "label": "Every Tenant Suite Adds a Roof Penetration Somebody Has to Track",
@@ -4325,7 +4325,7 @@
       },
       {
        "label": "Vivian: Roofing a North Caddo Hub Town Built on an Oil Boom That Ended Decades Ago",
-       "href": "/locations/vivian"
+       "href": "/service-areas/vivian"
       },
       {
        "label": "Every Tenant Suite Adds a Roof Penetration Somebody Has to Track",
@@ -4387,7 +4387,7 @@
       },
       {
        "label": "Stonewall: Roofing DeSoto Parish's Growing Edge Without Pretending It's a City",
-       "href": "/locations/stonewall"
+       "href": "/service-areas/stonewall"
       },
       {
        "label": "A Hospital Roof Answers to Infection Control Before It Answers to Facilities",
@@ -4453,7 +4453,7 @@
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "An Occupied Unit Turns a Simple Repair Into a Notice-and-Access Problem",
@@ -4519,7 +4519,7 @@
       },
       {
        "label": "Grain Elevators and Farm Buildings: Roofing in Belcher",
-       "href": "/locations/belcher"
+       "href": "/service-areas/belcher"
       },
       {
        "label": "A Warehouse Roof Fails Quietly Until the Racking Below Tells On It",
@@ -4587,7 +4587,7 @@
       },
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "A Roofing Sub Built for a Restoration-Heavy Market",
@@ -4633,7 +4633,7 @@
       },
       {
        "label": "Greenwood: Truck Stops and Warehouse Roofs at the Texas Line",
-       "href": "/locations/greenwood"
+       "href": "/service-areas/greenwood"
       },
       {
        "label": "Roof Work That Doesn't Interrupt a Running Production Line",
@@ -4679,7 +4679,7 @@
       },
       {
        "label": "Keeping Up With Princeton's I-20 Growth",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Roof Damage Documentation Built to Survive an Adjuster's Review",
@@ -4725,7 +4725,7 @@
       },
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "Keeping Multiple Storefronts Open While the Roof Gets Fixed",
@@ -4771,7 +4771,7 @@
       },
       {
        "label": "Mansfield: Shale Service Yards, Timber, and the DeSoto Parish Seat",
-       "href": "/locations/mansfield"
+       "href": "/service-areas/mansfield"
       },
       {
        "label": "A Roofing Sub Built for a Restoration-Heavy Market",
@@ -4817,7 +4817,7 @@
       },
       {
        "label": "Plain Dealing: Roofing the Northernmost Corner of Bossier Parish",
-       "href": "/locations/plain-dealing"
+       "href": "/service-areas/plain-dealing"
       },
       {
        "label": "Roof Work That Doesn't Interrupt a Running Production Line",
@@ -4863,7 +4863,7 @@
       },
       {
        "label": "Small-Building Roofing Around Fillmore",
-       "href": "/locations/fillmore"
+       "href": "/service-areas/fillmore"
       },
       {
        "label": "Keeping Multiple Storefronts Open While the Roof Gets Fixed",
@@ -4909,7 +4909,7 @@
       },
       {
        "label": "Historic Storefronts Meet Shale-Country Traffic in Grand Cane",
-       "href": "/locations/grand-cane"
+       "href": "/service-areas/grand-cane"
       },
       {
        "label": "One Roofing Contact for a Portfolio Spread Across Two Cities",
@@ -4955,7 +4955,7 @@
       },
       {
        "label": "Coushatta's Courthouse Square and Ag-Service Buildings",
-       "href": "/locations/coushatta"
+       "href": "/service-areas/coushatta"
       },
       {
        "label": "Roof Work That Doesn't Interrupt a Running Production Line",
@@ -5001,7 +5001,7 @@
       },
       {
        "label": "Highway 71's Small Buildings Need a Roofer Who Shows Up",
-       "href": "/locations/hosston"
+       "href": "/service-areas/hosston"
       },
       {
        "label": "Keeping Multiple Storefronts Open While the Roof Gets Fixed",
@@ -5047,7 +5047,7 @@
       },
       {
        "label": "Historic Storefronts Meet Shale-Country Traffic in Grand Cane",
-       "href": "/locations/grand-cane"
+       "href": "/service-areas/grand-cane"
       },
       {
        "label": "Keeping Multiple Storefronts Open While the Roof Gets Fixed",
@@ -5093,7 +5093,7 @@
       },
       {
        "label": "Cotton Gin Roofs and Rail-Town Buildings in Gilliam",
-       "href": "/locations/gilliam"
+       "href": "/service-areas/gilliam"
       },
       {
        "label": "Roof Work That Runs on a Public Budget Calendar",
@@ -5145,7 +5145,7 @@
       },
       {
        "label": "Stonewall: Roofing DeSoto Parish's Growing Edge Without Pretending It's a City",
-       "href": "/locations/stonewall"
+       "href": "/service-areas/stonewall"
       },
       {
        "label": "Most of These Plants Are Older Than the Companies Running Them Now",
@@ -5191,7 +5191,7 @@
       },
       {
        "label": "Bossier City Roofs: Casino Decks, Base-Belt Retail, and I-20 Growth",
-       "href": "/locations/bossier-city"
+       "href": "/service-areas/bossier-city"
       },
       {
        "label": "The Roof Plan Has to Fit Around the Dock Schedule, Not the Other Way Around",
@@ -5237,7 +5237,7 @@
       },
       {
        "label": "Travel-Corridor Roofing Where I-20 Crosses Into Texas at Waskom",
-       "href": "/locations/waskom"
+       "href": "/service-areas/waskom"
       },
       {
        "label": "Most of These Plants Are Older Than the Companies Running Them Now",
@@ -5283,7 +5283,7 @@
       },
       {
        "label": "Roofing Shale-Country Buildings Along Highway 175 in Frierson",
-       "href": "/locations/frierson"
+       "href": "/service-areas/frierson"
       },
       {
        "label": "An Occupied Guest Room Changes Every Roofing Decision We Make",
@@ -5329,7 +5329,7 @@
       },
       {
        "label": "Doyline: Roofing a Lake Bistineau Town Next Door to Camp Minden",
-       "href": "/locations/doyline"
+       "href": "/service-areas/doyline"
       },
       {
        "label": "A Sales Floor Leak Becomes a Liability File Before It Becomes a Work Order",
@@ -5375,7 +5375,7 @@
       },
       {
        "label": "Dixie Inn: Roofing an I-20 Exit Village West of Minden",
-       "href": "/locations/dixie-inn"
+       "href": "/service-areas/dixie-inn"
       },
       {
        "label": "The Gaming Floor Can't Close, So the Roof Above It Doesn't Get a Slow Season",

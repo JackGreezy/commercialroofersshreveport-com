@@ -1,5 +1,343 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/barksdale-afb-area",
+      "destination": "/service-areas/barksdale-afb-area",
+      "permanent": true
+    },
+    {
+      "source": "/locations/barksdale-afb-area/",
+      "destination": "/service-areas/barksdale-afb-area",
+      "permanent": true
+    },
+    {
+      "source": "/locations/belcher",
+      "destination": "/service-areas/belcher",
+      "permanent": true
+    },
+    {
+      "source": "/locations/belcher/",
+      "destination": "/service-areas/belcher",
+      "permanent": true
+    },
+    {
+      "source": "/locations/benton",
+      "destination": "/service-areas/benton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/benton/",
+      "destination": "/service-areas/benton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/blanchard",
+      "destination": "/service-areas/blanchard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/blanchard/",
+      "destination": "/service-areas/blanchard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bossier-city",
+      "destination": "/service-areas/bossier-city",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bossier-city/",
+      "destination": "/service-areas/bossier-city",
+      "permanent": true
+    },
+    {
+      "source": "/locations/coushatta",
+      "destination": "/service-areas/coushatta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/coushatta/",
+      "destination": "/service-areas/coushatta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dixie-inn",
+      "destination": "/service-areas/dixie-inn",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dixie-inn/",
+      "destination": "/service-areas/dixie-inn",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-shreveport",
+      "destination": "/service-areas/downtown-shreveport",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-shreveport/",
+      "destination": "/service-areas/downtown-shreveport",
+      "permanent": true
+    },
+    {
+      "source": "/locations/doyline",
+      "destination": "/service-areas/doyline",
+      "permanent": true
+    },
+    {
+      "source": "/locations/doyline/",
+      "destination": "/service-areas/doyline",
+      "permanent": true
+    },
+    {
+      "source": "/locations/elm-grove",
+      "destination": "/service-areas/elm-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/elm-grove/",
+      "destination": "/service-areas/elm-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fillmore",
+      "destination": "/service-areas/fillmore",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fillmore/",
+      "destination": "/service-areas/fillmore",
+      "permanent": true
+    },
+    {
+      "source": "/locations/frierson",
+      "destination": "/service-areas/frierson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/frierson/",
+      "destination": "/service-areas/frierson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gilliam",
+      "destination": "/service-areas/gilliam",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gilliam/",
+      "destination": "/service-areas/gilliam",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grand-cane",
+      "destination": "/service-areas/grand-cane",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grand-cane/",
+      "destination": "/service-areas/grand-cane",
+      "permanent": true
+    },
+    {
+      "source": "/locations/greenwood",
+      "destination": "/service-areas/greenwood",
+      "permanent": true
+    },
+    {
+      "source": "/locations/greenwood/",
+      "destination": "/service-areas/greenwood",
+      "permanent": true
+    },
+    {
+      "source": "/locations/haughton",
+      "destination": "/service-areas/haughton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/haughton/",
+      "destination": "/service-areas/haughton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hosston",
+      "destination": "/service-areas/hosston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hosston/",
+      "destination": "/service-areas/hosston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ida",
+      "destination": "/service-areas/ida",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ida/",
+      "destination": "/service-areas/ida",
+      "permanent": true
+    },
+    {
+      "source": "/locations/keithville",
+      "destination": "/service-areas/keithville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/keithville/",
+      "destination": "/service-areas/keithville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mansfield",
+      "destination": "/service-areas/mansfield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mansfield/",
+      "destination": "/service-areas/mansfield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/minden",
+      "destination": "/service-areas/minden",
+      "permanent": true
+    },
+    {
+      "source": "/locations/minden/",
+      "destination": "/service-areas/minden",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mooringsport",
+      "destination": "/service-areas/mooringsport",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mooringsport/",
+      "destination": "/service-areas/mooringsport",
+      "permanent": true
+    },
+    {
+      "source": "/locations/oil-city",
+      "destination": "/service-areas/oil-city",
+      "permanent": true
+    },
+    {
+      "source": "/locations/oil-city/",
+      "destination": "/service-areas/oil-city",
+      "permanent": true
+    },
+    {
+      "source": "/locations/plain-dealing",
+      "destination": "/service-areas/plain-dealing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/plain-dealing/",
+      "destination": "/service-areas/plain-dealing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/princeton",
+      "destination": "/service-areas/princeton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/princeton/",
+      "destination": "/service-areas/princeton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/red-chute",
+      "destination": "/service-areas/red-chute",
+      "permanent": true
+    },
+    {
+      "source": "/locations/red-chute/",
+      "destination": "/service-areas/red-chute",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ringgold",
+      "destination": "/service-areas/ringgold",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ringgold/",
+      "destination": "/service-areas/ringgold",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sibley",
+      "destination": "/service-areas/sibley",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sibley/",
+      "destination": "/service-areas/sibley",
+      "permanent": true
+    },
+    {
+      "source": "/locations/stonewall",
+      "destination": "/service-areas/stonewall",
+      "permanent": true
+    },
+    {
+      "source": "/locations/stonewall/",
+      "destination": "/service-areas/stonewall",
+      "permanent": true
+    },
+    {
+      "source": "/locations/vivian",
+      "destination": "/service-areas/vivian",
+      "permanent": true
+    },
+    {
+      "source": "/locations/vivian/",
+      "destination": "/service-areas/vivian",
+      "permanent": true
+    },
+    {
+      "source": "/locations/waskom",
+      "destination": "/service-areas/waskom",
+      "permanent": true
+    },
+    {
+      "source": "/locations/waskom/",
+      "destination": "/service-areas/waskom",
+      "permanent": true
+    },
+    {
+      "source": "/locations/youree-drive-corridor",
+      "destination": "/service-areas/youree-drive-corridor",
+      "permanent": true
+    },
+    {
+      "source": "/locations/youree-drive-corridor/",
+      "destination": "/service-areas/youree-drive-corridor",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
 }

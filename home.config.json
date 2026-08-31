@@ -9,7 +9,7 @@
   "domain": "commercialroofersshreveport.com",
   "wordmark_l1": "Commercial Roofers",
   "wordmark_l2": "of Shreveport",
-  "hero_image": "/ours/locations/commercial-roofers-shreveport-la-01.webp",
+  "hero_image": "/ours/service-areas/commercial-roofers-shreveport-la-01.webp",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
   "nav": [
     [
@@ -30,7 +30,7 @@
     ],
     [
       "Service Areas",
-      "/locations"
+      "/service-areas"
     ],
     [
       "Manufacturers",
