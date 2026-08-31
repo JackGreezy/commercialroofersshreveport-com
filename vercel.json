@@ -2,7 +2,80 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
-  "rewrites": [],
+  "rewrites": [
+    {
+      "source": "/roof-systems/modified-bitumen-systems",
+      "destination": "/roof-systems/modified-bitumen-systems.html"
+    },
+    {
+      "source": "/roof-systems/modified-bitumen-systems/",
+      "destination": "/roof-systems/modified-bitumen-systems.html"
+    },
+    {
+      "source": "/services/emergency-tarp-dry-in",
+      "destination": "/leak-first-rich/emergency.html"
+    },
+    {
+      "source": "/services/emergency-tarp-dry-in/",
+      "destination": "/leak-first-rich/emergency.html"
+    },
+    {
+      "source": "/services/commercial-roof-leak-repair",
+      "destination": "/leak-first-rich/leak.html"
+    },
+    {
+      "source": "/services/commercial-roof-leak-repair/",
+      "destination": "/leak-first-rich/leak.html"
+    },
+    {
+      "source": "/services/drain-cleaning-repair",
+      "destination": "/leak-first-rich/drainage.html"
+    },
+    {
+      "source": "/services/drain-cleaning-repair/",
+      "destination": "/leak-first-rich/drainage.html"
+    },
+    {
+      "source": "/services/commercial-roof-inspection",
+      "destination": "/leak-first-rich/inspection.html"
+    },
+    {
+      "source": "/services/commercial-roof-inspection/",
+      "destination": "/leak-first-rich/inspection.html"
+    },
+    {
+      "source": "/services/preventive-maintenance-programs",
+      "destination": "/leak-first-rich/maintenance.html"
+    },
+    {
+      "source": "/services/preventive-maintenance-programs/",
+      "destination": "/leak-first-rich/maintenance.html"
+    },
+    {
+      "source": "/services/silicone-roof-coatings",
+      "destination": "/leak-first-rich/restoration.html"
+    },
+    {
+      "source": "/services/silicone-roof-coatings/",
+      "destination": "/leak-first-rich/restoration.html"
+    },
+    {
+      "source": "/services/commercial-roof-tear-off-replacement",
+      "destination": "/leak-first-rich/replacement.html"
+    },
+    {
+      "source": "/services/commercial-roof-tear-off-replacement/",
+      "destination": "/leak-first-rich/replacement.html"
+    },
+    {
+      "source": "/capabilities/roof-asset-management",
+      "destination": "/leak-first-rich/planning.html"
+    },
+    {
+      "source": "/capabilities/roof-asset-management/",
+      "destination": "/leak-first-rich/planning.html"
+    }
+  ],
   "redirects": [
     {
       "source": "/locations/:path*",

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "lane": "planning",
+      "route": "/capabilities/roof-asset-management",
+      "source": "data/leak-first-rendered/planning.html",
+      "destination": "public/leak-first-rich/planning.html"
+    },
+    {
+      "lane": "inspection",
+      "route": "/services/commercial-roof-inspection",
+      "source": "data/leak-first-rendered/inspection.html",
+      "destination": "public/leak-first-rich/inspection.html"
+    },
+    {
+      "lane": "leak",
+      "route": "/services/commercial-roof-leak-repair",
+      "source": "data/leak-first-rendered/leak.html",
+      "destination": "public/leak-first-rich/leak.html"
+    },
+    {
+      "lane": "replacement",
+      "route": "/services/commercial-roof-tear-off-replacement",
+      "source": "data/leak-first-rendered/replacement.html",
+      "destination": "public/leak-first-rich/replacement.html"
+    },
+    {
+      "lane": "drainage",
+      "route": "/services/drain-cleaning-repair",
+      "source": "data/leak-first-rendered/drainage.html",
+      "destination": "public/leak-first-rich/drainage.html"
+    },
+    {
+      "lane": "emergency",
+      "route": "/services/emergency-tarp-dry-in",
+      "source": "data/leak-first-rendered/emergency.html",
+      "destination": "public/leak-first-rich/emergency.html"
+    },
+    {
+      "lane": "maintenance",
+      "route": "/services/preventive-maintenance-programs",
+      "source": "data/leak-first-rendered/maintenance.html",
+      "destination": "public/leak-first-rich/maintenance.html"
+    },
+    {
+      "lane": "restoration",
+      "route": "/services/silicone-roof-coatings",
+      "source": "data/leak-first-rendered/restoration.html",
+      "destination": "public/leak-first-rich/restoration.html"
+    }
+  ]
+}
