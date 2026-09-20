@@ -74,6 +74,14 @@
     {
       "source": "/capabilities/roof-asset-management/",
       "destination": "/leak-first-rich/planning.html"
+    },
+    {
+      "source": "/services/roof-lifting",
+      "destination": "/services/roof-lifting.html"
+    },
+    {
+      "source": "/services/roof-lifting/",
+      "destination": "/services/roof-lifting.html"
     }
   ],
   "redirects": [
