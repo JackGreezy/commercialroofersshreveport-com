@@ -15,6 +15,25 @@
   margin-top: 28px;
 }
 
+/* .HeroHomeImage_heroContainer__ZRkBy is a fixed-height flex column
+   (50rem desktop, 38.4rem mobile via .index_heroContainer__FfMPc), sized
+   for the donor's original title+subtitle only. The .rr-shv-hero-actions
+   buttons added below the subtitle push the column's real content past
+   that fixed box (flex children don't shrink below their intrinsic text
+   height, and justify-content:flex-start keeps them anchored to the top
+   either way), so the buttons render past the hero and collide with the
+   CardsSection that follows (which is pulled up over the hero's bottom
+   by design on desktop). Give the column enough room to include them. */
+.HeroHomeImage_heroContainer__ZRkBy {
+  height: 62rem !important;
+}
+
+@media only screen and (max-width: calc(768px - 1px)) {
+  .index_heroContainer__FfMPc.HeroHomeImage_heroContainer__ZRkBy {
+    height: 68rem !important;
+  }
+}
+
 .rr-shv-hero-actions a,
 .rr-shv-service-copy > a,
 .rr-shv-close a {
@@ -1422,7 +1441,7 @@ body :where(
   align-items: center;
   background: var(--rr-taste-accent);
   border: 0;
-  color: #fff;
+  color: var(--rr-taste-blue);
   cursor: pointer;
   display: inline-flex;
   font-family: var(--font-secondary, "Oswald", sans-serif);
@@ -1439,6 +1458,7 @@ body :where(
 .rr-contact-submit:hover,
 .rr-contact-submit:focus-visible {
   background: var(--rr-taste-ink);
+  color: #fff;
 }
 
 .rr-contact-form .form-status {
@@ -1660,4 +1680,20 @@ body :where(
   .related-projects-wrap > article {
     max-width: none !important;
   }
+}
+
+/* .rr-shv-kicker is white/gold text tuned for the dark .rr-shv-decision
+   section (#0b0b0b). .rr-shv-service-plan reuses the same kicker on a
+   light cream background (#efede8), where it reads at 1.73:1, and its
+   paragraph/list text has no color of its own at all, so it inherits
+   white from the dark-section context (1.17:1). Scope both to the site's
+   own light-section colors: the kicker to the brown already used by the
+   section's own H2 immediately below it, and the body copy to the page ink. */
+.rr-shv-service-plan .rr-shv-kicker {
+  color: #6b5c3f;
+}
+
+.rr-shv-service-copy > p:not(.rr-shv-kicker),
+.rr-shv-service-copy li {
+  color: var(--rr-taste-ink);
 }
