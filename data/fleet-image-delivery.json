@@ -1,0 +1,196 @@
+{
+  "domain": "commercialroofersshreveport.com",
+  "images": {
+    "/images/brand/logo-on-dark.png": {
+      "width": 872,
+      "height": 281,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/95f08e7708c104dc.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/7294d0ce5513bd2e.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/fc4e00a05e16f711.webp",
+          "width": 872
+        }
+      ],
+      "mobileSize": "180px"
+    },
+    "/ours/service-areas/commercial-roofers-shreveport-la-01.webp": {
+      "width": 1600,
+      "height": 1071,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/dfec70eb76e9d31d.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/3c93915efdcbdf7a.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/b4eea282e76a4669.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/bf3decffbe8252b1.webp",
+          "density": 1,
+          "width": 576
+        },
+        {
+          "src": "/performance/fleet-images/3725593b98a6ff79.webp",
+          "density": 2,
+          "width": 1152
+        },
+        {
+          "src": "/performance/fleet-images/9f7211dd35f2e4bc.webp",
+          "density": 3,
+          "width": 1600
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-leak-repair-commercial-roofers-shreveport-la.webp": {
+      "width": 2048,
+      "height": 1364,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/971ac1ad73e6f7d3.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/8d799e93d135fcd7.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/b9aeab78bd33e7e0.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/services/acrylic-roof-coatings-commercial-roofers-shreveport-la.webp": {
+      "width": 1200,
+      "height": 900,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/f1df3230122c04a0.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/3a82da328f79a2e7.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/72043a96a2df190c.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-shreveport-la.webp": {
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/e22f4dd5f0d2c868.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/260fa3b3c6b9120d.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/bc7a6c5e6f0c8b49.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/shared/shreveport-roofing-mark.png": {
+      "width": 1024,
+      "height": 1024,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/d9c03c02128fa1d4.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/b7c4bf7ff6b28c59.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/4430baf01f45a7ef.webp",
+          "width": 1024
+        }
+      ]
+    },
+    "/ours/services/preventive-maintenance-programs-commercial-roofers-shreveport-la.webp": {
+      "width": 2000,
+      "height": 1336,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/3e77c56f06b9c7a8.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/4ad2524a2cb05621.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/08744c87b43bb310.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-inspection-commercial-roofers-shreveport-la.webp": {
+      "width": 2000,
+      "height": 1024,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/01d4b8e667dd2b12.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/7dd3c6557951e880.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/49cb1a713bed58b9.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/service-areas/commercial-roofers-shreveport-la-05.webp": {
+      "width": 2400,
+      "height": 1350,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/1251f2b3d2851ffb.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/d4d0b3333ec64b58.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/53c75c2b693d80a3.webp",
+          "width": 1240
+        }
+      ]
+    }
+  },
+  "lazyImages": [
+    "/ours/services/commercial-roof-leak-repair-commercial-roofers-shreveport-la.webp",
+    "/ours/services/acrylic-roof-coatings-commercial-roofers-shreveport-la.webp",
+    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-shreveport-la.webp",
+    "/ours/shared/shreveport-roofing-mark.png",
+    "/ours/services/preventive-maintenance-programs-commercial-roofers-shreveport-la.webp",
+    "/ours/services/commercial-roof-inspection-commercial-roofers-shreveport-la.webp",
+    "/ours/service-areas/commercial-roofers-shreveport-la-05.webp"
+  ],
+  "lazyBackgrounds": [],
+  "heroImage": "/ours/service-areas/commercial-roofers-shreveport-la-01.webp"
+}
