@@ -1,3 +1,4 @@
+const { verifyContactTurnstile } = require('../lib/turnstile.js');
 function isBlockedContactName(body) {
   const source = body instanceof FormData
     ? Object.fromEntries(body.entries())
@@ -84,6 +85,11 @@ module.exports = async function handler(req, res) {
   if (isBlockedContactName(body)) return sendJson(res, 200, { ok: true, success: true }, headers);
   const lead = normalizeLead(body, req); const validationError = validateLead(lead);
   if (validationError) return sendJson(res, 400, { ok: false, success: false, message: validationError, error: validationError }, headers);
+  const verification = await verifyContactTurnstile(body.turnstileToken || body["cf-turnstile-response"], clientIp(req));
+  if (!verification.ok) {
+    const message = verification.unavailable ? "Contact verification is temporarily unavailable. Please call us directly." : "Please complete the security check and try again.";
+    return sendJson(res, verification.unavailable ? 503 : 403, { ok: false, success: false, message, error: "turnstile-verification-failed" }, headers);
+  }
   try { await sendLeadEmails(lead, req); } catch (error) { console.error("Contact email send failed", error); const message = error && error.message === "SENDGRID_API_KEY is missing." ? "Email service is not configured." : "We could not submit your request right now. Please call us directly."; return sendJson(res, 500, { ok: false, success: false, message, error: "email-send-failed" }, headers); }
   return sendJson(res, 200, { ok: true, success: true, message: "Your request has been received. Our team will follow up shortly." }, headers);
 };
