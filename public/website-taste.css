@@ -1697,3 +1697,226 @@ body :where(
 .rr-shv-service-copy li {
   color: var(--rr-taste-ink);
 }
+
+/* ===== Inner-page layout repairs (detail prose, CTA, back button, footer, legal pages) ===== */
+[data-rr-prose="detail"] h2 {
+  color: #fff;
+  font-family: "Helvetica Neue LT Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(24px, 2.6vw, 34px);
+  font-weight: 750;
+  letter-spacing: 0;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+[data-rr-prose="detail"] h3 {
+  border-top: 1px solid rgba(194, 181, 155, 0.28);
+  color: #fff;
+  font-family: "Helvetica Neue LT Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 26px 0 8px;
+  padding-top: 18px;
+}
+[data-rr-prose="detail"] p {
+  color: #e4dccb;
+  font-size: 17px;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+[data-rr-prose="detail"] ul {
+  list-style: disc;
+  margin: 0 0 20px;
+}
+[data-rr-prose="detail"] li {
+  color: #e4dccb;
+  font-size: 17px;
+  line-height: 1.6;
+  margin: 0 0 8px;
+}
+[data-rr-prose="detail"] > a.CtaButton_ctaButton__CIdyj,
+[data-rr-prose="detail"] a.CtaButton_ctaButton__CIdyj {
+  align-items: center !important;
+  background: #c2b59b !important;
+  border: 2px solid #c2b59b !important;
+  color: #101010 !important;
+  display: inline-flex !important;
+  font-size: 14px !important;
+  font-weight: 800 !important;
+  height: auto !important;
+  letter-spacing: 0.08em !important;
+  line-height: 1.2 !important;
+  margin-top: 6px !important;
+  min-height: 52px !important;
+  overflow: visible !important;
+  padding: 14px 26px !important;
+  text-decoration: none !important;
+  text-transform: uppercase !important;
+  white-space: normal !important;
+  width: auto !important;
+}
+[data-rr-prose="detail"] > a.CtaButton_ctaButton__CIdyj:hover {
+  background: #fff !important;
+  border-color: #fff !important;
+}
+a.BackButton_backButton__6TBFb {
+  height: auto !important;
+  max-width: 100%;
+  padding: 7px 14px !important;
+  white-space: nowrap;
+  width: auto !important;
+}
+a.BackButton_backButton__6TBFb .BackButton_backButtonLabel__wZeEe {
+  white-space: nowrap;
+}
+#footer img.rr-footer-brand-logo {
+  display: block !important;
+  height: auto !important;
+  max-height: 64px !important;
+  width: auto !important;
+}
+footer .rr-footer-ia {
+  box-sizing: border-box !important;
+  margin: 24px auto 0 !important;
+  max-width: 1440px !important;
+  padding: 0 40px 40px !important;
+  width: 100% !important;
+}
+footer .rr-footer-brand-wrap {
+  max-width: 1440px !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+@media (max-width: 700px) {
+  footer .rr-footer-ia, footer .rr-footer-brand-wrap { padding-left: 20px !important; padding-right: 20px !important; }
+}
+footer .rr-footer-ia a {
+  padding: 4px 0 !important;
+}
+/* Privacy and terms: the policy text now sits in the page body under the hero. */
+.rr-legal-body {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 880px;
+  padding: 56px 28px 72px;
+}
+.rr-legal-body h1 { display: none !important; }
+.rr-legal-body h2 {
+  color: #fff;
+  font-family: "Helvetica Neue LT Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(22px, 2.4vw, 30px);
+  font-weight: 750;
+  line-height: 1.1;
+  margin: 40px 0 12px;
+  text-transform: uppercase;
+}
+.rr-legal-body p, .rr-legal-body li {
+  color: #e4dccb;
+  font-size: 17px;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+.rr-legal-body ul { margin: 0 0 20px; padding-left: 22px; }
+.rr-legal-body a { color: #c2b59b; }
+/* Storm page: its sections were written for a light page, so give them one. */
+.rr-tornado-page .rr-tornado-content, .rr-tornado-page .rr-tornado-faq { background: #f4f6f7; }
+.rr-tornado-page .rr-tornado-content { padding-bottom: 40px; }
+.rr-tornado-page .rr-tornado-faq { padding-top: 10px; }
+.rr-tornado-page .rr-tornado-aside { background: #fff; }
+.rr-tornado-page { background: #f4f6f7; }
+.rr-tornado-page .rr-tornado-hero-grid .rr-tornado-lede { font-size: 19px; }
+.rr-tornado-page .rr-tornado-eyebrow { font-size: 13px; }
+.rr-tornado-page .rr-tornado-copy p { font-size: 17px; line-height: 1.75; }
+.rr-tornado-page .rr-tornado-note { font-size: 16px; }
+.rr-tornado-page .rr-tornado-aside h2 { font-size: 19px; }
+.rr-tornado-page .rr-tornado-aside a { font-size: 16px; }
+.rr-tornado-page .rr-tornado-faq summary { font-size: 17px; }
+.rr-tornado-page .rr-tornado-faq details p { font-size: 16px; }
+.rr-tornado-page .rr-tornado-cta p { font-size: 17px; }
+.rr-tornado-page .rr-tornado-button { font-size: 15px; }
+footer [class*="socialIconsRoot"] { text-align: left !important; justify-content: flex-start !important; }
+footer [class*="socialIconsRoot"] a { margin-left: 0 !important; }
+footer [class*="socialIconsRoot"] ul:not(:has(a)) { display: none !important; }
+/* Intent pages (capabilities and leak-first guides): match the site's dark editorial look. */
+html body .rh-intent-page { color: #fff; }
+html body .rh-intent-page .rh-intent-hero {
+  background: #1c1a16;
+  color: #fff;
+  padding: 150px 28px 64px;
+}
+html body .rh-intent-page .rh-intent-hero h1 {
+  font-family: "Helvetica Neue LT Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(34px, 4.6vw, 62px);
+  font-weight: 750;
+  line-height: 1.04;
+  margin: 12px 0 22px;
+  text-transform: uppercase;
+}
+html body .rh-intent-page .rh-intent-hero p { color: #e4dccb; font-size: 18px; line-height: 1.65; }
+html body .rh-intent-page .rh-eyebrow { color: #c2b59b; font-size: 13px !important; }
+html body .rh-intent-page .rh-intent-cta,
+html body .rh-intent-page .rh-leak-funnel-contact a {
+  background: #c2b59b;
+  color: #101010 !important;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  padding: 15px 26px;
+  text-transform: uppercase;
+}
+html body .rh-intent-page .rh-intent-content { padding: 56px 28px 0; }
+html body .rh-intent-page .rh-intent-content h2 {
+  color: #fff;
+  font-family: "Helvetica Neue LT Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(22px, 2.4vw, 32px);
+  font-weight: 750;
+  line-height: 1.12;
+  margin: 40px 0 14px;
+  text-transform: uppercase;
+}
+html body .rh-intent-page .rh-intent-content h3 { color: #fff; font-size: 19px; font-weight: 700; margin: 24px 0 8px; }
+html body .rh-intent-page .rh-intent-content p,
+html body .rh-intent-page .rh-intent-content li,
+html body .rh-intent-page .rh-intent-content [data-rh-leak-rich] p,
+html body .rh-intent-page .rh-intent-content [data-rh-leak-rich] li {
+  color: #e4dccb;
+  font-size: 17px;
+  line-height: 1.7;
+}
+html body .rh-intent-page .rh-intent-content ul { list-style: disc; padding-left: 22px; }
+html body .rh-intent-page .rh-intent-content details {
+  border-top: 1px solid rgba(194, 181, 155, 0.3);
+  padding: 16px 0;
+}
+html body .rh-intent-page .rh-intent-content details:last-of-type { border-bottom: 1px solid rgba(194, 181, 155, 0.3); }
+html body .rh-intent-page .rh-intent-content summary { color: #fff; cursor: pointer; font-size: 18px; font-weight: 700; line-height: 1.35; }
+html body .rh-intent-page .rh-intent-content details p { margin: 12px 0 0; }
+html body .rh-intent-page .rh-leak-funnel { padding: 56px 28px 40px; }
+html body .rh-intent-page .rh-leak-funnel header p { color: #e4dccb; font-size: 17px; line-height: 1.6; }
+html body .rh-intent-page .rh-leak-funnel header > p:first-child { color: #c2b59b; font-size: 13px; }
+html body .rh-intent-page .rh-leak-funnel h2 {
+  color: #fff;
+  font-family: "Helvetica Neue LT Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(24px, 3vw, 38px);
+  font-weight: 750;
+  line-height: 1.1;
+  margin: 8px 0 14px;
+  text-transform: uppercase;
+}
+html body .rh-intent-page .rh-leak-funnel-grid a {
+  background: #181612;
+  border: 1px solid rgba(194, 181, 155, 0.4);
+  color: #fff;
+  min-height: 130px;
+  padding: 22px;
+}
+html body .rh-intent-page .rh-leak-funnel-grid a:hover { border-color: #c2b59b; }
+html body .rh-intent-page .rh-leak-funnel-grid span { color: #c2b59b; font-size: 14px; opacity: 1; }
+html body .rh-intent-page .rh-leak-funnel-grid strong { font-size: 19px; line-height: 1.25; }
+.rh-rain-intent-link { box-sizing: border-box; margin: 0 auto; max-width: 1120px; padding: 4px 28px; }
+.rh-rain-intent-link a { color: #c2b59b; font-size: 15px; }
+@media (max-width: 700px) {
+  html body .rh-intent-page .rh-intent-hero { padding: 120px 20px 48px; }
+  html body .rh-intent-page .rh-intent-content, html body .rh-intent-page .rh-leak-funnel { padding-left: 20px; padding-right: 20px; }
+  .rh-rain-intent-link { padding-left: 20px; padding-right: 20px; }
+}
+/* ===== end inner-page layout repairs ===== */
