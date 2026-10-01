@@ -163,7 +163,7 @@
     {
       "route": "/industries/general-contractors",
       "load": true,
-      "title": "Roofing for General Contractors in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for General Contractors in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -188,7 +188,7 @@
     {
       "route": "/industries/government-public-sector",
       "load": true,
-      "title": "Roofing for Government and Public-Sector Facilities in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for Government and Public-Sector Facilities in Shreveport, LA",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -213,7 +213,7 @@
     {
       "route": "/industries/healthcare-systems",
       "load": true,
-      "title": "Roofing for Healthcare Systems in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for Healthcare Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -238,7 +238,7 @@
     {
       "route": "/industries/hospitality-groups",
       "load": true,
-      "title": "Roofing for Hospitality Groups in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for Hospitality Groups in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -263,7 +263,7 @@
     {
       "route": "/industries/insurance-restoration",
       "load": true,
-      "title": "Roofing for Insurance Restoration in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for Insurance Restoration in Shreveport | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -288,7 +288,7 @@
     {
       "route": "/industries/manufacturing-operators",
       "load": true,
-      "title": "Roofing for Manufacturing Operators in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for Manufacturing Operators in Shreveport | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -313,7 +313,7 @@
     {
       "route": "/industries/property-management-firms",
       "load": true,
-      "title": "Roofing for Property Management Firms in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for Property Management Firms in Shreveport, LA",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -338,7 +338,7 @@
     {
       "route": "/industries/retail-chain-operators",
       "load": true,
-      "title": "Roofing for Retail Chain Operators in Shreveport, LA Industry Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roofing for Retail Chain Operators in Shreveport | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1205,7 +1205,7 @@
     {
       "route": "/manufacturers/carlisle-syntec",
       "load": true,
-      "title": "Carlisle SynTec Roofing Systems in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Carlisle SynTec Roofing Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1230,7 +1230,7 @@
     {
       "route": "/manufacturers/gaf-commercial",
       "load": true,
-      "title": "GAF Commercial Roofing Systems in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "GAF Commercial Roofing Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1255,7 +1255,7 @@
     {
       "route": "/manufacturers/holcim-elevate",
       "load": true,
-      "title": "Elevate (Holcim) Roofing Systems in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Elevate (Holcim) Roofing Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1280,7 +1280,7 @@
     {
       "route": "/manufacturers/johns-manville",
       "load": true,
-      "title": "Johns Manville Roofing Systems in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Johns Manville Roofing Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1305,7 +1305,7 @@
     {
       "route": "/manufacturers/sika-sarnafil",
       "load": true,
-      "title": "Sika Sarnafil Roofing Systems in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Sika Sarnafil Roofing Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1330,7 +1330,7 @@
     {
       "route": "/manufacturers/versico",
       "load": true,
-      "title": "Versico Roofing Systems in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Versico Roofing Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1397,7 +1397,7 @@
     {
       "route": "/project-types/big-box-retail-roofing",
       "load": true,
-      "title": "Big-Box Retail Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Big-Box Retail Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1422,7 +1422,7 @@
     {
       "route": "/project-types/casino-entertainment-roofing",
       "load": true,
-      "title": "Casino & Entertainment Complex Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Casino & Entertainment Complex Roofing in Shreveport, LA",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1447,7 +1447,7 @@
     {
       "route": "/project-types/distribution-center-roofing",
       "load": true,
-      "title": "Distribution Center Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Distribution Center Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1472,7 +1472,7 @@
     {
       "route": "/project-types/government-municipal-roofing",
       "load": true,
-      "title": "Government & Municipal Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Government & Municipal Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1497,7 +1497,7 @@
     {
       "route": "/project-types/higher-education-roofing",
       "load": true,
-      "title": "Higher Education Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Higher Education Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1522,7 +1522,7 @@
     {
       "route": "/project-types/hospital-surgery-center-roofing",
       "load": true,
-      "title": "Hospital & Surgery Center Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Hospital & Surgery Center Roofing in Shreveport | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1547,7 +1547,7 @@
     {
       "route": "/project-types/hotel-hospitality-roofing",
       "load": true,
-      "title": "Hotel & Hospitality Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Hotel & Hospitality Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1572,7 +1572,7 @@
     {
       "route": "/project-types/manufacturing-plant-roofing",
       "load": true,
-      "title": "Manufacturing Plant Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Manufacturing Plant Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1597,7 +1597,7 @@
     {
       "route": "/project-types/medical-office-building-roofing",
       "load": true,
-      "title": "Medical Office Building Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Medical Office Building Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1622,7 +1622,7 @@
     {
       "route": "/project-types/multi-tenant-retail-strip-roofing",
       "load": true,
-      "title": "Multi-Tenant Retail Strip Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Multi-Tenant Retail Strip Roofing in Shreveport | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1647,7 +1647,7 @@
     {
       "route": "/project-types/multifamily-apartment-roofing",
       "load": true,
-      "title": "Multifamily Apartment Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Multifamily Apartment Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1672,7 +1672,7 @@
     {
       "route": "/project-types/warehouse-roofing",
       "load": true,
-      "title": "Warehouse Roofing in Shreveport, LA Project Roofing in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Warehouse Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1718,7 +1718,7 @@
     {
       "route": "/roof-systems/epdm-black",
       "load": true,
-      "title": "Black EPDM Roofing in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Black EPDM Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1743,7 +1743,7 @@
     {
       "route": "/roof-systems/epdm-white",
       "load": true,
-      "title": "White EPDM Roofing in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "White EPDM Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1768,7 +1768,7 @@
     {
       "route": "/roof-systems/modified-bitumen-sbs",
       "load": true,
-      "title": "SBS Modified Bitumen Roofing in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "SBS Modified Bitumen Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1793,7 +1793,7 @@
     {
       "route": "/roof-systems/pvc-roof-systems",
       "load": true,
-      "title": "PVC Roof Systems in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "PVC Roof Systems in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1818,7 +1818,7 @@
     {
       "route": "/roof-systems/silicone-roof-coating",
       "load": true,
-      "title": "Silicone Roof Coating in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Silicone Roof Coating in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1843,7 +1843,7 @@
     {
       "route": "/roof-systems/spray-polyurethane-foam",
       "load": true,
-      "title": "Spray Polyurethane Foam Roofing in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Spray Polyurethane Foam Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1868,7 +1868,7 @@
     {
       "route": "/roof-systems/tpo-60-mil",
       "load": true,
-      "title": "60-Mil TPO Roofing in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "60-Mil TPO Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1893,7 +1893,7 @@
     {
       "route": "/roof-systems/tpo-80-mil",
       "load": true,
-      "title": "80-Mil TPO Roofing in Shreveport, LA Roof Systems in Shreveport | Commercial Roofers of Shreveport",
+      "title": "80-Mil TPO Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1964,7 +1964,7 @@
     {
       "route": "/services/built-up-roofing",
       "load": true,
-      "title": "Built-Up Roofing (BUR) in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Built-Up Roofing (BUR) in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -1989,7 +1989,7 @@
     {
       "route": "/services/commercial-reroofing",
       "load": true,
-      "title": "Commercial Reroofing in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Commercial Reroofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2039,7 +2039,7 @@
     {
       "route": "/services/commercial-roof-insurance-claims",
       "load": true,
-      "title": "Commercial Roof Insurance Claim Assistance in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Commercial Roof Insurance Claim Assistance in Shreveport, LA",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2114,7 +2114,7 @@
     {
       "route": "/services/edge-metal-coping-gutters",
       "load": true,
-      "title": "Edge Metal, Coping & Gutters in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Edge Metal, Coping & Gutters in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2164,7 +2164,7 @@
     {
       "route": "/services/epdm-commercial-roofing",
       "load": true,
-      "title": "EPDM Commercial Roofing in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "EPDM Commercial Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2189,7 +2189,7 @@
     {
       "route": "/services/hail-damage-roof-insurance-claims",
       "load": true,
-      "title": "Hail Damage Roof Insurance Claims in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Hail Damage Roof Insurance Claims in Shreveport | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2214,7 +2214,7 @@
     {
       "route": "/services/insurance-documentation-support",
       "load": true,
-      "title": "Insurance Documentation Support for Roof Claims in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Insurance Documentation Support for Roof Claims in Shreveport, LA",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2239,7 +2239,7 @@
     {
       "route": "/services/metal-r-panel-roofing",
       "load": true,
-      "title": "Metal R-Panel Roofing in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Metal R-Panel Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2264,7 +2264,7 @@
     {
       "route": "/services/modified-bitumen-roofing",
       "load": true,
-      "title": "Modified Bitumen Roofing in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Modified Bitumen Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2314,7 +2314,7 @@
     {
       "route": "/services/pvc-roofing",
       "load": true,
-      "title": "PVC Roofing in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "PVC Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2339,7 +2339,7 @@
     {
       "route": "/services/roof-drains-scuppers",
       "load": true,
-      "title": "Roof Drains & Scuppers in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roof Drains & Scuppers in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2364,7 +2364,7 @@
     {
       "route": "/services/roof-recover-overlay",
       "load": true,
-      "title": "Roof Recover & Overlay in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Roof Recover & Overlay in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2414,7 +2414,7 @@
     {
       "route": "/services/snow-ice-roof-damage-insurance-claims",
       "load": true,
-      "title": "Snow & Ice Roof Damage Insurance Claims in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Snow & Ice Roof Damage Insurance Claims in Shreveport, LA",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2439,7 +2439,7 @@
     {
       "route": "/services/standing-seam-metal-roofing",
       "load": true,
-      "title": "Standing Seam Metal Roofing in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Standing Seam Metal Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2464,7 +2464,7 @@
     {
       "route": "/services/storm-damage-roof-repair",
       "load": true,
-      "title": "Storm Damage Roof Repair in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Storm Damage Roof Repair in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2489,7 +2489,7 @@
     {
       "route": "/services/tpo-single-ply-roofing",
       "load": true,
-      "title": "TPO Single-Ply Roofing in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "TPO Single-Ply Roofing in Shreveport, LA | Commercial Roofers of Shreveport",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
@@ -2514,7 +2514,7 @@
     {
       "route": "/services/wind-storm-damage-roof-insurance-claims",
       "load": true,
-      "title": "Wind & Storm Damage Roof Insurance Claims in Shreveport, LA Services in Shreveport | Commercial Roofers of Shreveport",
+      "title": "Wind & Storm Damage Roof Insurance Claims in Shreveport, LA",
       "bodyWidth": 1440,
       "viewportWidth": 1440,
       "cardGroups": [],
