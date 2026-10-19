@@ -353,7 +353,7 @@ function normalizeRepo(repo) {
   let formsChanged = 0;
   for (const relative of trackedFiles(repo)) {
     const file = path.join(repo, relative);
-    if (!fs.existsSync(file) || (fs.statSync(file).size > 5_000_000 && !relative.endsWith(".json"))) continue;
+    if (!fs.existsSync(file) || ((fs.statSync(file).size > 5_000_000 && !relative.endsWith(".json")) && !relative.endsWith(".json"))) continue;
     const text = fs.readFileSync(file, "utf8");
     if (!/<form\b/i.test(text)) continue;
     const result = normalizeText(text);
