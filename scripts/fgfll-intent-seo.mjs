@@ -7,9 +7,9 @@ const APPLY = process.argv.includes("--apply") ||
   (process.argv.includes("--vercel") && /^(1|true)$/i.test(process.env.VERCEL || ""));
 const rootArg = process.argv.find((arg) => arg.startsWith("--root="));
 const ROOT = path.resolve(rootArg ? rootArg.slice("--root=".length) : process.cwd());
-const MARKER = "rankhound-intent-seo-v1";
-const VARIANT_MARKER = "rankhound-market-variants-v2";
-const ANSWER_MARKER = "rankhound-answer-first-v3";
+const MARKER = "fgfll-intent-seo-v1";
+const VARIANT_MARKER = "fgfll-market-variants-v2";
+const ANSWER_MARKER = "fgfll-answer-first-v3";
 const TAXONOMIES = new Set([
   "pages",
   "services",
@@ -513,7 +513,7 @@ function updatePlainH1(html, market, location = null) {
 
 function markedSpan(marker, sentence, answerFirst = false) {
   const answerAttribute = answerFirst ? ` data-answer-first="${ANSWER_MARKER}"` : "";
-  return `<span data-rankhound-seo="${marker}"${answerAttribute}>${escapeHtml(sentence)}</span>`;
+  return `<span data-fgfll-seo="${marker}"${answerAttribute}>${escapeHtml(sentence)}</span>`;
 }
 
 function addVariantSentence(html, sentence, answerFirst = false) {
@@ -528,7 +528,7 @@ function addVariantSentence(html, sentence, answerFirst = false) {
     return html;
   }
   const existingPattern = new RegExp(
-    `<span\\b(?=[^>]*\\bdata-rankhound-seo=["']${VARIANT_MARKER}["'])[^>]*>[\\s\\S]*?<\\/span>`,
+    `<span\\b(?=[^>]*\\bdata-fgfll-seo=["']${VARIANT_MARKER}["'])[^>]*>[\\s\\S]*?<\\/span>`,
     "i",
   );
   const existing = match[2].match(existingPattern);
@@ -554,7 +554,7 @@ function addSupportToFirstPlainParagraph(html, sentence) {
   if ((match.index ?? Infinity) > 2500) return html;
   if (/<(?:p|h[1-6]|section|div)\b/i.test(match[2])) return html;
   const existingPattern = new RegExp(
-    `<span\\b(?=[^>]*\\bdata-rankhound-seo=["']${MARKER}["'])[^>]*>[\\s\\S]*?<\\/span>`,
+    `<span\\b(?=[^>]*\\bdata-fgfll-seo=["']${MARKER}["'])[^>]*>[\\s\\S]*?<\\/span>`,
     "i",
   );
   const currentHtml = match[2].replace(existingPattern, "").trim();
@@ -579,7 +579,7 @@ function addLinksToExistingSection(html, pillars) {
   let section = match[0];
   const missing = links.filter(({ href }) => !new RegExp(`href=["']${href.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?:/)?["']`, "i").test(section));
   if (!missing.length) return html;
-  const items = missing.map(({ href, label }) => `<li data-rankhound-seo="${MARKER}"><a href="${escapeHtml(href)}">${escapeHtml(label)}</a></li>`).join("");
+  const items = missing.map(({ href, label }) => `<li data-fgfll-seo="${MARKER}"><a href="${escapeHtml(href)}">${escapeHtml(label)}</a></li>`).join("");
   if (/<\/ul>/i.test(section)) section = section.replace(/<\/ul>/i, `${items}</ul>`);
   else return html;
   return html.replace(sectionPattern, section);

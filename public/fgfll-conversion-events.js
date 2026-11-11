@@ -1,6 +1,6 @@
 (function () {
-  if (window.__rankhoundConversionEvents) return;
-  window.__rankhoundConversionEvents = true;
+  if (window.__fgfllConversionEvents) return;
+  window.__fgfllConversionEvents = true;
   window.va = window.va || function () {
     (window.vaq = window.vaq || []).push(arguments);
   };
