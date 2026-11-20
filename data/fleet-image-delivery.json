@@ -91,24 +91,6 @@
         }
       ]
     },
-    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-shreveport-la.webp": {
-      "width": 1920,
-      "height": 1080,
-      "variants": [
-        {
-          "src": "/performance/fleet-images/e22f4dd5f0d2c868.webp",
-          "width": 400
-        },
-        {
-          "src": "/performance/fleet-images/260fa3b3c6b9120d.webp",
-          "width": 828
-        },
-        {
-          "src": "/performance/fleet-images/bc7a6c5e6f0c8b49.webp",
-          "width": 1240
-        }
-      ]
-    },
     "/ours/shared/shreveport-roofing-mark.png": {
       "width": 1024,
       "height": 1024,
@@ -124,42 +106,6 @@
         {
           "src": "/performance/fleet-images/4430baf01f45a7ef.webp",
           "width": 1024
-        }
-      ]
-    },
-    "/ours/services/preventive-maintenance-programs-commercial-roofers-shreveport-la.webp": {
-      "width": 2000,
-      "height": 1336,
-      "variants": [
-        {
-          "src": "/performance/fleet-images/3e77c56f06b9c7a8.webp",
-          "width": 400
-        },
-        {
-          "src": "/performance/fleet-images/4ad2524a2cb05621.webp",
-          "width": 828
-        },
-        {
-          "src": "/performance/fleet-images/08744c87b43bb310.webp",
-          "width": 1240
-        }
-      ]
-    },
-    "/ours/services/commercial-roof-inspection-commercial-roofers-shreveport-la.webp": {
-      "width": 2000,
-      "height": 1024,
-      "variants": [
-        {
-          "src": "/performance/fleet-images/01d4b8e667dd2b12.webp",
-          "width": 400
-        },
-        {
-          "src": "/performance/fleet-images/7dd3c6557951e880.webp",
-          "width": 828
-        },
-        {
-          "src": "/performance/fleet-images/49cb1a713bed58b9.webp",
-          "width": 1240
         }
       ]
     },
@@ -185,10 +131,8 @@
   "lazyImages": [
     "/ours/services/commercial-roof-leak-repair-commercial-roofers-shreveport-la.webp",
     "/ours/services/acrylic-roof-coatings-commercial-roofers-shreveport-la.webp",
-    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-shreveport-la.webp",
     "/ours/shared/shreveport-roofing-mark.png",
-    "/ours/services/preventive-maintenance-programs-commercial-roofers-shreveport-la.webp",
-    "/ours/services/commercial-roof-inspection-commercial-roofers-shreveport-la.webp",
+    "/ours/services/commercial-roof-inspection-commercial-roofers-shreveport-la-v2.webp",
     "/ours/service-areas/commercial-roofers-shreveport-la-05.webp"
   ],
   "lazyBackgrounds": [],

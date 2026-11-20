@@ -1,0 +1,25 @@
+[identity]
+name: Commercial Roofers of Shreveport
+url: https://commercialroofersshreveport.com
+description: Commercial roof emergency repair, flat roof inspections, coatings, replacement, and service agreements for Shreveport and Bossier City buildings.
+contact: hello@commercialroofersshreveport.com
+
+[permissions]
+Summarise, quote with attribution, cite, and index public content for search and answers.
+
+[restrictions]
+Do not fabricate quotes, reviews, ratings, project results, prices, or guarantees.
+Do not present this content as your own. Private and authenticated content is excluded.
+Training-crawler permissions are unchanged; consult robots.txt.
+
+[attribution]
+Cite Commercial Roofers of Shreveport and the canonical HTML URL provided with each document.
+
+[scope]
+Included: public pages in https://commercialroofersshreveport.com/api/md/_catalog
+Excluded: /api/, /admin/, /portal/, /dashboard/, /auth/, /sign-in, /sign-up, /onboarding/, /dev-access, drafts and noindex pages.
+
+[contact]
+hello@commercialroofersshreveport.com
+
+# Keep in sync with robots.txt and llms.txt. Generated from the public route registry.

@@ -1920,3 +1920,26 @@ html body .rh-intent-page .rh-leak-funnel-grid strong { font-size: 19px; line-he
   .rh-rain-intent-link { padding-left: 20px; padding-right: 20px; }
 }
 /* ===== end inner-page layout repairs ===== */
+
+/* hero + card repairs */
+html body .index_heroWrapper__HEJef { padding-top: 0 !important; }
+html body .HeroHomeImage_heroSection__Zgj4m, html body .HeroHomeImage_heroContainer__ZRkBy { min-height: clamp(560px, calc(100vh - 150px), 720px) !important; height: auto !important; }
+html body .HeroHomeImage_heroContainer__ZRkBy { padding-top: 60px !important; padding-bottom: 60px !important; display: flex; align-items: center; }
+html body .HeroHomeImage_heroContainer__ZRkBy::before { content: ""; position: absolute; inset: 0; z-index: 0; background: linear-gradient(90deg, rgba(10,10,8,.78), rgba(10,10,8,.45) 60%, rgba(10,10,8,.2)); pointer-events: none; }
+html body .HeroHomeImage_wrapperPaddingClass__1KHdm { position: relative; z-index: 2; }
+html body .HeroHomeImage_title__E_j7G { font-size: clamp(38px, 4.6vw, 64px) !important; line-height: 1.04 !important; margin-bottom: 18px !important; text-shadow: 0 2px 14px rgba(0,0,0,.55); }
+html body .HeroHomeImage_subtitle__75GEm { font-size: clamp(17px, 1.5vw, 21px) !important; line-height: 1.55 !important; max-width: 640px !important; }
+html body .Cards_title__nYRun { font-size: 15px !important; line-height: 1.5 !important; text-transform: none !important; font-weight: 400 !important; }
+html body .Cards_title__nYRun strong { display: block; margin-bottom: 8px; font-size: 22px !important; line-height: 1.15 !important; text-transform: uppercase; font-weight: 800 !important; }
+html body .Cards_card__uv5Bc { height: auto !important; min-height: 0 !important; padding-bottom: 24px !important; }
+html body .Cards_card__uv5Bc .CtaButton_ctaButton__CIdyj { height: auto !important; min-height: 40px; padding: 10px 16px !important; font-size: 13px !important; white-space: normal !important; }
+@media (max-width: 760px) { html body .HeroHomeImage_title__E_j7G { font-size: clamp(32px, 9vw, 44px) !important; } }
+p.rh-rain-intent-link { margin: 0; padding: 6px 20px; text-align: center; font-size: 13px; }
+p.rh-rain-intent-link a { color: #cfc6b4; text-decoration: none; }
+html body .HeroHomeImage_wrapperPaddingClass__1KHdm, html body .HeroHomeImage_textContainer__ky2MB { position: relative !important; z-index: 3 !important; height: auto !important; min-height: 0 !important; justify-content: center !important; }
+html body .HeroHomeImage_titleGroup__X_axO { position: relative; z-index: 3; }
+html body .HeroHomeImage_backgroundImage__Jm9kb { z-index: 0 !important; }
+html body .HeroHomeImage_heroContainer__ZRkBy::before { z-index: 1 !important; }
+html body .HeroHomeImage_titleGroup__X_axO { display: flex !important; flex-direction: column !important; justify-content: center !important; gap: 0 !important; max-width: 920px; height: auto !important; min-height: 0 !important; }
+html body .HeroHomeImage_title__E_j7G { max-width: 920px !important; }
+html body .rr-shv-decision-head h2 { font-size: clamp(32px, 4vw, 56px) !important; line-height: 1.06 !important; }

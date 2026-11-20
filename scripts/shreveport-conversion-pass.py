@@ -157,7 +157,7 @@ def rewrite_home(soup: BeautifulSoup) -> None:
       <div><span>Restore</span><h3>Extend the roof when conditions allow</h3><p>Evaluate coating or recover options only after the membrane, insulation, moisture, and details are checked.</p><a href="/contact?service=roof-coating">Evaluate coating potential</a></div>
     </article>
     <article>
-      <img src="/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-shreveport-la.webp" alt="Commercial flat roof replacement in Shreveport" loading="lazy"/>
+      <img src="/ours/services/commercial-roof-tear-off-aged-roof-commercial-roofers-shreveport-la.webp" alt="Commercial flat roof replacement in Shreveport" loading="lazy"/>
       <div><span>Replace</span><h3>Plan the next roof before failure dictates the schedule</h3><p>Compare tear-off, recover, insulation, drainage, phasing, warranty, and occupied-building requirements.</p><a href="/contact?service=roof-replacement">Plan a replacement inspection</a></div>
     </article>
   </div>
@@ -186,7 +186,7 @@ def rewrite_home(soup: BeautifulSoup) -> None:
     <a href="/contact?service=service-agreement">Discuss a roof service agreement</a>
   </div>
   <div class="rr-shv-service-image">
-    <img src="/ours/services/preventive-maintenance-programs-commercial-roofers-shreveport-la.webp" alt="Commercial roof service agreement inspection in Shreveport" loading="lazy"/>
+    <img src="/ours/services/preventive-maintenance-roof-edge-commercial-roofers-shreveport-la.webp" alt="Commercial roof service agreement inspection in Shreveport" loading="lazy"/>
   </div>
 </section>'''))
 

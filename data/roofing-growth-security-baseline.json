@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "domain": "commercialroofersshreveport.com",
+  "productionDeployment": "dpl_EcjkEGhpGSwWwPhEVeFYYUBfuor4",
+  "handlerFile": "api/submit.js",
+  "handlerNormalizedSha256": "e2a5e637d5801cf0435a0ad2e132a8ce3e82dee993944a12fa2aa6e71761bfe5",
+  "dependenciesSha256": "e124745ae55cbca2810a1a15bda63fb27cb25dd09c4ef7c41efd5e2e8e201cfd",
+  "securityFiles": [
+    {
+      "path": "api/turnstile-config.js",
+      "sha256": "024de2d7059f7875be4e37054c4353211c9d435ed3b327da6f4b78ffb3624828"
+    },
+    {
+      "path": "lib/turnstile.js",
+      "sha256": "73323d4e8bd634212980a31aca4c1d41eb2a5bce8ff67fd5f15f5c78d210b9ef"
+    },
+    {
+      "path": "public/rr-lead-controls.css",
+      "sha256": "6c4fc0848e012a1dd121eeac20f6772fa18dc1b52b0dafa72d0bdbed8752d7e0"
+    },
+    {
+      "path": "public/rr-lead-controls.js",
+      "sha256": "b65e2326d4cd953a2eae3b065d860f504fe4464eadfb1a132296f91230f9e004"
+    },
+    {
+      "path": "public/turnstile-contact.js",
+      "sha256": "833f8bfa3a9a48a58c8dd7a7500aabe0e313d5c6d8af0941b08f530d340f59bb"
+    },
+    {
+      "path": "scripts/finalize-lead-controls.mjs",
+      "sha256": "a99b7650de93adc3d18e2a1800ccdc49d737bce585bf95272c90518e862eb56b"
+    },
+    {
+      "path": "scripts/inject-turnstile.mjs",
+      "sha256": "7945498848d63475676c736833daeb01b2fbcf170d1a8bffe08712d9ecc7d0b0"
+    }
+  ]
+}

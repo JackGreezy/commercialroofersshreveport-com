@@ -18,7 +18,7 @@ const DEFAULT_TEMPLATE_ID = "d-15217ab1c55347b5847c2421b1a82847";
 const buckets = new Map();
 const LIMIT = 5;
 const WINDOW_MS = 60 * 1000;
-const REQUIRED_FIELDS = ["name", "phone", "email", "timeline", "message"];
+const REQUIRED_FIELDS = ["name", "phone", "email"];
 const emailTheme = {
   accent: "#c2502a", accentText: "#ffffff", ctaDarkBg: "#1c2426", bg: "#eef1f4", card: "#ffffff",
   headerBg: "#ffffff", headerText: "#1c2426", footerBg: "#f6f8f9", border: "#e3e8ed",
@@ -91,5 +91,5 @@ module.exports = async function handler(req, res) {
     return sendJson(res, verification.unavailable ? 503 : 403, { ok: false, success: false, message, error: "turnstile-verification-failed" }, headers);
   }
   try { await sendLeadEmails(lead, req); } catch (error) { console.error("Contact email send failed", error); const message = error && error.message === "SENDGRID_API_KEY is missing." ? "Email service is not configured." : "We could not submit your request right now. Please call us directly."; return sendJson(res, 500, { ok: false, success: false, message, error: "email-send-failed" }, headers); }
-  return sendJson(res, 200, { ok: true, success: true, message: "Your request has been received. Our team will follow up shortly." }, headers);
+  return sendJson(res, 200, { ok: true, success: true, leadAccepted: true, message: "Your request has been received. Our team will follow up shortly." }, headers);
 };

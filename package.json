@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "@vercel/functions": "3.11.0"
+  },
+  "scripts": {
+    "build": "node scripts/install-roofing-growth.mjs"
+  }
+}

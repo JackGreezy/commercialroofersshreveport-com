@@ -1,7 +1,7 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "buildCommand": "node scripts/build-contact-site.mjs",
+  "buildCommand": "node scripts/build-contact-site.mjs && node scripts/ai/build.mjs && node scripts/check-ai-site.mjs",
   "rewrites": [
     {
       "source": "/roof-systems/modified-bitumen-systems",
@@ -425,5 +425,13 @@
       "destination": "/service-areas",
       "permanent": true
     }
-  ]
+  ],
+  "outputDirectory": "public",
+  "framework": null,
+  "proxy": {
+    "entrypoint": "proxy.ts",
+    "matcher": [
+      "/((?!.*\\.(?:css|js|mjs|png|jpe?g|webp|gif|svg|ico|woff2?|ttf|eot|mp4|mov|pdf|xml|txt)$).*)"
+    ]
+  }
 }
