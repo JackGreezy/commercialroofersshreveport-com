@@ -4,6 +4,7 @@
     "@vercel/functions": "3.11.0"
   },
   "scripts": {
-    "build": "node scripts/install-roofing-growth.mjs"
+    "build": "node scripts/install-roofing-growth.mjs",
+    "prebuild": "node scripts/install-roofing-growth.mjs"
   }
 }

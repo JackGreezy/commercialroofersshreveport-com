@@ -1,7 +1,7 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "buildCommand": "node scripts/build-contact-site.mjs && node scripts/ai/build.mjs && node scripts/check-ai-site.mjs",
+  "buildCommand": "node scripts/install-roofing-growth.mjs && node scripts/build-contact-site.mjs && node scripts/ai/build.mjs && node scripts/check-ai-site.mjs && node scripts/install-roofing-growth.mjs",
   "rewrites": [
     {
       "source": "/roof-systems/modified-bitumen-systems",
