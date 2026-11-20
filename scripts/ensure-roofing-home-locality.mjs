@@ -56,7 +56,7 @@ if(statewide){console.log(JSON.stringify({h1Locality:'EXEMPT_OR_NO_VERIFIED_LOCA
  const valid=new RegExp('\\b'+escape(city)+'\\s*,\\s*(?:'+state+'\\b|'+escape(states[state])+'\\b)','i');
  const modifications=[];
  function transform(html){return html.replace(/(<h1\b[^>]*>)([\s\S]*?)(<\/h1>)/gi,(all,open,inner,close,offset)=>{
-  const text=inner.replace(/<[^>]*>/g,' ').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim();const prefix=html.slice(0,offset).toLowerCase();if(!text||/\b(?:site-title|brand|logo)\b/i.test(open)||prefix.lastIndexOf('<header')>prefix.lastIndexOf('</header'))return all;if(valid.test(text))return all;
+  const text=inner.replace(/<[^>]*>/g,' ').replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim();const prefix=html.slice(0,offset).toLowerCase();const inHeader=prefix.lastIndexOf('<header')>prefix.lastIndexOf('</header'),heroHeader=inHeader&&/\b(?:hero|page-title|screen-height|home-banner)\b/.test(prefix.slice(prefix.lastIndexOf('<header')));if(!text||/\b(?:site-title|brand|logo)\b/i.test(open)||(inHeader&&!heroHeader))return all;if(valid.test(text))return all;
   let next=inner;
   if(cityPattern.test(text)){
    let applied=false;next=inner.split(/(<[^>]+>)/g).map(token=>{if(applied||token.startsWith('<'))return token;if(cityPattern.test(token)){applied=true;return token.replace(cityPattern,match=>match===match.toUpperCase()?locality.toUpperCase():locality);}return token;}).join('');
