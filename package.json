@@ -5,6 +5,6 @@
   },
   "scripts": {
     "build": "node scripts/install-roofing-growth.mjs",
-    "prebuild": "node scripts/install-roofing-growth.mjs"
+    "prebuild": "node scripts/install-roofing-growth.mjs && node scripts/install-roofing-performance.mjs"
   }
 }

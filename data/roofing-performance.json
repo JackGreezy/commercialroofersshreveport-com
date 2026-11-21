@@ -1,0 +1,119 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofersshreveport.com",
+  "images": {
+    "/images/brand/logo-on-dark.png": "/performance/roofing-v1/4fcdc5175e00125f6d68a69e.webp",
+    "/ours/industries/manufacturing-operators-commercial-roofers-shreveport-la.webp": "/performance/roofing-v1/b473de171b912f2aff53b70d.webp",
+    "/ours/manufacturers/carlisle-syntec-commercial-roofers-shreveport-la.webp": "/performance/roofing-v1/b46730e76ca235d308d15735.webp",
+    "/ours/manufacturers/gaf-commercial-commercial-roofers-shreveport-la-v2.webp": "/performance/roofing-v1/dc768e48e876b5694a3615fd.webp",
+    "/ours/manufacturers/johns-manville-commercial-roofers-shreveport-la-v2.webp": "/performance/roofing-v1/c95ab043673fa8ce1d443c18.webp",
+    "/ours/manufacturers/versico-commercial-roofers-shreveport-la.webp": "/performance/roofing-v1/a5b63e77b9765be5bf0921e8.webp",
+    "/ours/project-types/higher-education-roofing-commercial-roofers-shreveport-la-v2.webp": "/performance/roofing-v1/3bb92629efc3d99643c8b702.webp",
+    "/ours/project-types/warehouse-roofing-commercial-roofers-shreveport-la-v2.webp": "/performance/roofing-v1/9217db6a1eb776c7b6d62545.webp",
+    "/ours/roof-systems/tpo-80-mil-commercial-roofers-shreveport-la.webp": "/performance/roofing-v1/0bc465442c5dbb94443b0558.webp",
+    "/ours/services/roof-recover-overlay-commercial-roofers-shreveport-la.webp": "/performance/roofing-v1/08cc9f13cabd3cf9aa98ba30.webp",
+    "/ours/services/tpo-single-ply-roofing-commercial-roofers-shreveport-la-v2.webp": "/performance/roofing-v1/ed24c10430628a8715930151.webp",
+    "/ours/shared/shreveport-roofing-mark.png": "/performance/roofing-v1/cf20fff2f174a84cce4a0ed5.webp"
+  },
+  "assets": [
+    {
+      "from": "/images/brand/logo-on-dark.png",
+      "to": "/performance/roofing-v1/4fcdc5175e00125f6d68a69e.webp",
+      "width": 872,
+      "height": 281,
+      "beforeBytes": 192705,
+      "afterBytes": 141660
+    },
+    {
+      "from": "/ours/industries/manufacturing-operators-commercial-roofers-shreveport-la.webp",
+      "to": "/performance/roofing-v1/b473de171b912f2aff53b70d.webp",
+      "width": 1900,
+      "height": 1526,
+      "beforeBytes": 378460,
+      "afterBytes": 301982
+    },
+    {
+      "from": "/ours/manufacturers/carlisle-syntec-commercial-roofers-shreveport-la.webp",
+      "to": "/performance/roofing-v1/b46730e76ca235d308d15735.webp",
+      "width": 2400,
+      "height": 1354,
+      "beforeBytes": 172818,
+      "afterBytes": 135566
+    },
+    {
+      "from": "/ours/manufacturers/gaf-commercial-commercial-roofers-shreveport-la-v2.webp",
+      "to": "/performance/roofing-v1/dc768e48e876b5694a3615fd.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 344506,
+      "afterBytes": 233060
+    },
+    {
+      "from": "/ours/manufacturers/johns-manville-commercial-roofers-shreveport-la-v2.webp",
+      "to": "/performance/roofing-v1/c95ab043673fa8ce1d443c18.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 375886,
+      "afterBytes": 269828
+    },
+    {
+      "from": "/ours/manufacturers/versico-commercial-roofers-shreveport-la.webp",
+      "to": "/performance/roofing-v1/a5b63e77b9765be5bf0921e8.webp",
+      "width": 1627,
+      "height": 954,
+      "beforeBytes": 121772,
+      "afterBytes": 95512
+    },
+    {
+      "from": "/ours/project-types/higher-education-roofing-commercial-roofers-shreveport-la-v2.webp",
+      "to": "/performance/roofing-v1/3bb92629efc3d99643c8b702.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 284448,
+      "afterBytes": 202044
+    },
+    {
+      "from": "/ours/project-types/warehouse-roofing-commercial-roofers-shreveport-la-v2.webp",
+      "to": "/performance/roofing-v1/9217db6a1eb776c7b6d62545.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 322202,
+      "afterBytes": 223040
+    },
+    {
+      "from": "/ours/roof-systems/tpo-80-mil-commercial-roofers-shreveport-la.webp",
+      "to": "/performance/roofing-v1/0bc465442c5dbb94443b0558.webp",
+      "width": 1600,
+      "height": 1200,
+      "beforeBytes": 140474,
+      "afterBytes": 106800
+    },
+    {
+      "from": "/ours/services/roof-recover-overlay-commercial-roofers-shreveport-la.webp",
+      "to": "/performance/roofing-v1/08cc9f13cabd3cf9aa98ba30.webp",
+      "width": 2200,
+      "height": 1467,
+      "beforeBytes": 459754,
+      "afterBytes": 358486
+    },
+    {
+      "from": "/ours/services/tpo-single-ply-roofing-commercial-roofers-shreveport-la-v2.webp",
+      "to": "/performance/roofing-v1/ed24c10430628a8715930151.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 238042,
+      "afterBytes": 171976
+    },
+    {
+      "from": "/ours/shared/shreveport-roofing-mark.png",
+      "to": "/performance/roofing-v1/cf20fff2f174a84cce4a0ed5.webp",
+      "width": 1024,
+      "height": 1024,
+      "beforeBytes": 853183,
+      "afterBytes": 81082
+    }
+  ],
+  "createdAt": "2026-11-21T04:24:50.317Z",
+  "fonts": [],
+  "fontFailures": []
+}
